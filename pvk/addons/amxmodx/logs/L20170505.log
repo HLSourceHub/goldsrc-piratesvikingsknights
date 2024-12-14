@@ -1,0 +1,9 @@
+L 05/05/2017 - 21:14:55: -------- Mapchange to pvk_tavern --------
+L 05/05/2017 - 21:14:56: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 05/05/2017 - 21:18:05: -------- Mapchange to PVK_SNOWFIELD --------
+L 05/05/2017 - 21:18:06: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 05/05/2017 - 21:19:45: [admincmd.amxx] Cmd: "loKkdoKk<2><STEAM_0:0:30952510><>" ask for players list
+L 05/05/2017 - 21:21:41: -------- Mapchange to pvk_giant --------
+L 05/05/2017 - 21:21:41: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 05/05/2017 - 21:21:42: [HAMSANDWICH] Error: pev and base not set for section "pvk windows", cannot register natives.
+L 05/05/2017 - 21:21:42: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")

@@ -1,0 +1,2017 @@
+PVK STRATEGY GUIDE (version 1.0)
+
+A Guide to Pirates, Vikings and Knights Beta.
+A modification for Half-Life, by Valve and Sierra Studios 
+
+Written and Compiled by - The Hyper Duck
+Email Address - american_mcge69@yahoo.com
+
+Special Thanks To:
+
+-The PVKTEAM for creating PVK in the first place
+-The staff of http://www.pvkii.com for keeping the PVK community going
+-[99% Vol.]MahaTmA GhAndi for providing several strategies
+-[KB] Haldir of Lorien for providing strategies concerning the Bowman class
+-The PVKII Team for promising to deliver what looks like a superb successor to PVK
+
+INTRODUCTION
+
+Arrr!
+
+Welcome to the world of PVK! I compiled this guide because, currently, there are no other
+extensive guides to PVK anywhere out there - until now, obviously. There's been many
+new people trying out PVK recently, so hopefully they will find this document helpful! It
+contains countless strategies for the mod, all of which have been tested by the author, and
+found to be quite effective. So whether you're new or you've been playing god-only-knows-how
+long, there's sure to be some new things in here to learn. 
+   
+Please note, this guide is NOT complete. I've tried to make it as thorough as possible, but
+I'm still human, and there's bound to be mistakes here or there. Also, there's undoubtedly
+many strategies that I don't know about (or haven't mentioned). If you've got something you
+think I might be able to use, send it to me at american_mcge69@yahoo.com . Likewise, you can
+send questions, concerns, or notify me of mistakes at the same address.
+
+--------------------------------------------------------------------------------------------
+
+GENERAL STRATEGIES
+
+To be quite honest, there aren't a whole lot of general strategies for PVK. Since the classes
+are all so different, it's very difficult to apply one strategy to every group in the game.
+Regardless, there are a few things that you should ALWAYS keep in mind, no matter what class
+you are or who you're dealing with. If you need strategies for a specific class, look in
+the class-specific sections. 
+
+--What the hell is he doing?-- [strategy by [99% Vol.]MahaTmA GhAndi]
+
+Try to be creative when selecting ways of attacking your enemy: zig-zag, jump, duck and walk 
+in one big muddle. This is especially effective against archers and to some extent sniper pirates, 
+since they'll never know what to do next.
+
+Author's Comments: Unpredictability, indeed, is one of the most important things to keep in mind
+when playing PVK, but especially when you're one of the faster classes. By moving around randomly
+and bouncing, you'll be MUCH harder to hit with ranged weaponry. This is by far the best way
+to avoid ranged fire as a pirate or other fast class.
+
+--Patterns: They ain't just for quilting anymore-- [strategy by [99% Vol.]MahaTmA GhAndi]
+
+Learn quickly to see patterns in your enemies movement, as these might reveal his next move.
+
+Author's Comments: This ties in with the previous strategy. If your enemy is being predictable
+by following a certain pattern of attack, take advantage of it and hit them when they move into
+a vulnerable position. This is especially important when facing heavy, slow opponents, such as
+Heavy Knights and Axe Vikings. Look for openings between sword/axe swings, then run in quickly,
+hit them, and back out of range before they can retaliate.
+
+--Linearity Ahoy-- [strategy by [99% Vol.]MahaTmA GhAndi]
+
+Unless your enemy is coming straight for you, don't hit their model, hit where they are going to 
+be in one tenth of a second. This is due to PVK not having lag compensation.
+
+Author's Comments: Lag is especially important in PVK, perhaps moreso than in mods that focus on
+ranged fighting. Since there is no lag compensation, you can literally follow someone, repeatedly
+swinging at their back, but never actually hit them. Even more importantly, ranged weaponry 
+is a lot trickier than in other mods - especially the non-hitscan weapons such as bows and javelins.
+Aim where your opponent WILL be, not where he is when you throw.
+
+--Clash of the Titans-- [strategy by [99% vol.]MahaTmA GhAndi]
+
+Never, EVER charge directly into a HKs sword, he will kill you in an instant, instead, try to get 
+behind him and leap away after 1 to 2 hits. He will be confused and you will have a greater chance 
+of surviving.
+
+Author's Comments: There are certain classes in this game that people really don't like taking on.
+The Heavy Knight is the most obvious example, and Ghandi has outlined the most effective strategy
+for dealing with them as any class. Other classes, such as the Viking Spearman and Berserker are
+also quite difficult to deal with in a one-on-one situation. See the class-specific sections for
+details on how to deal with certain classes.
+
+--Health Pop-Ups-- [strategy by [99% vol.]MahaTmA GhAndi]
+
+One of the most handy features in PVK is the health status reports that pop-up in
+the center of your screen when your crosshair is centered on another player. These things are 
+EXTREMELY invaluable to you. Take note of your opponent's health before attacking them. Are
+they healthy? You might want to try a powerful weapon, or a ranged one. Are they nearing death?
+If so, take out a quick weapon that sacrifices power for speed. If you can learn to use health
+pop-ups to your advantage, you will instantly become a much more effective PVKer. 
+
+--There's no "I" in Team--
+
+Many players are tempted to run off alone and do their own thing as soon as they start. This
+isn't always a good idea, especially if you're dealing with a well-organized or skilled 
+opponent. Stick with your teammates - you'll be exponentially more effective. Having even
+just one partner doubles your chances of coming out victorious. Try out combinations of classes
+to see how they fare in defensive and offensive situations.
+
+--------------------------------------------------------------------------------------------
+PIRATES
+
+PIRATE CAPTAIN
+
+Speed - Fast
+Max HP - 100
+Weapons - Cutlass, Blunderbust, Parrot & Hook
+Offense/Defense - Both, although best at offense
+
+--General Information--
+
+The Pirate Captain is arguably the most difficult of the pirate classes to use. But few things
+can stop a skilled Captain. Like the other pirate classes, his speed gives him a major advantage
+over the other teams. His high speed lets him escape pursuing foes with relative ease, and believe
+me, you will need to escape frequently. The Captain also has an unfortunate impairment in his
+jump height. He can't jump as high as most other classes (I assume having a pegleg would hinder
+jumping somewhat), so you may find yourself having trouble getting up into places
+that are easily reachable to other characters.
+
+GENERAL STRATEGIES
+
+* /run coward.exe
+The Captain isn't a tank. He's more powerful than the other pirates, but by no means will you
+be able to take on a bunch of heavy knights or berserkers and hope to survive, unless you
+REALLY know what you're doing. If you notice yourself running low on health, don't be ashamed
+to run off and grab some food. Remember, you're quick, so it shouldn't be too hard to escape.
+
+* Boing
+As with most other quick classes, it's a good idea to jump, weave, and just move erratically
+to avoid ranged attacks. Bouncing around may make you look like an idiot, but it makes it 
+exponentially harder for anyone to get a bead on you. Also, by constantly jumping, you will
+gain a marginal amount of speed, in addition to being hard to target. 
+
+* The Fire Ant Tactic
+Pirates work best in groups. Stay with your team, and swarm powerful enemies like a colony of
+fire ants. Not even the best heavy knight can hope to stand up to 4 pirates hacking away at
+their armor with cutlasses. This is especially true of the Captain and Skirmisher. 
+
+WEAPON STRATEGIES
+
+BLUNDERBUST
+Damage - Depends on range. Very high at point blank range, very low at anything beyond 20 feet.
+Maximum Ammunition - 50 rounds
+
+The Blunderbust is the most powerful tool in the Captain's arsenal. Unfortunately, it's also
+the trickiest to use. The Blunderbust functions like a shotgun. It's ridiculously powerful
+at close range - it'll turn almost anyone into a smear with one good shot, and even if it doesn't
+kill them outright it'll leave them knocking on death's door. But as distance increases, power
+decreases considerably. Don't waste ammo firing at people from 10 feet away, it's really not 
+worth the effort. An exception to this is if someone is visibly in the "Near Death" health range -
+even a blast from 30 feet away can flatten them if you're lucky.
+
+A major mistake people make with the blunderbust is to use it while sidestepping. This is a big 
+no-no: it's much, much harder to hit anything while you're moving side to side. If you're lucky
+you might graze them, but chances are you'll miss completely. Try to line up your shot to the best
+of your ability. Lure them into a straight-out rush at you, and give them a face full of buckshot.
+This is especially useful against Spear Vikings that foolishly decide to charge at you. When they 
+get close, let loose a hail of gunpowder right in their face.
+
+Reloading the blunderbust is a chore, like many of the ranged weapons in PVK. It takes a 
+good 3 or 4 seconds to reload, and while reloading you cannot move at all. 3 seconds is more
+than enough time for someone to turn you into a red stain on the grass. For this reason, it is
+ESSENTIAL that you find a secluded area to stuff your barrel in. Don't reload your gun unless
+you're absolutely sure that there is no one who can reach you before you finish, or hit you
+at long range while you're immobile. If you do notice someone coming at you or lining up a shot,
+don't hesitate to switch weapons and beat feet to safer ground.  
+
+CUTLASS
+Damage - Medium
+Maximum Ammunition - No ammo needed
+
+The Cutlass is the Captain's fallback melee weapon. It's not impressively strong, but it is quick
+and fully capable of taking down even powerful enemies. 
+
+You should have this weapon out most of the time. Since the blunderbust is often in need of reloading,
+and the parrot is hardly a reliable weapon, the cutlass will be your best friend. The cutlass 
+can attack rapidly, and can easily land several hits per second. It is THE best weapon to use against 
+classes with no truly effective close-range weapon, such as Bowmen. It's also great for finishing off
+people that you've managed to weaken with a blunderbust shot. 
+
+Remember though, the cutlass isn't some sort of uber weapon. It's a fallback weapon, and you should
+not attack anyone with full health, especially if they are one of the heavy classes (berserker, heavy
+knight). Running into an enemy spawn swinging this thing around like an idiot will result in a rather
+hasty death. Use it to finish off weakened enemies, or against poorly armored opponents such as Archers.
+And never, NEVER use this against a Spear Viking who is sober. Unless you're really good and
+the Spear Viking is incredibly incompetent, he will jab you to death before you can let out a profanity.
+This weapon is just not suited to dealing with Spear Vikings, due to its poor reach and the spear's 
+contrasting long reach. If you do want to try your luck against one, suddenly duck when you get near the
+spearman and castrate the sucker.    
+
+The cutlass is most effective when you're in a group of allies. Skirmishers are your best friends - 
+stick together. You're both very quick classes, and you can easily swarm anyone foolish enough to 
+attack if you're in a group of 3, or even 2. Simply run circles around the enemy with your ally, beating
+the poor sap to a pulp with your blades. Rinse and repeat. 
+
+If you're using the cutlass, treat your enemy like a bull in a Spanish bullfight. That is, get him to
+run at you (or you can run at him), and then dodge his attacks while giving him a good whack with your 
+sword. Here's how:
+
+1) Run at the enemy. Or, have him run at you. 
+2) When you get close to him (or he gets close to you), duck and whack him once.
+3) Get behind him and whack him some more before he can react. 
+
+The ducking serves as a dodging mechanism. This is a VERY effective method of attack, often working 
+well even on Spear Vikings if you're quick enough. Be sure to use it every chance you can, because I've
+found it to be very useful, considering how easy it is to do. 
+
+PARROT AND HOOK
+Damage - Low (Parrot), Low (Hook)
+Maximum Ammunition - 1 Parrot, No ammo needed for hook
+
+The parrot is often overlooked as a "goof-around" weapon with little use other than to irritate 
+opponents. This is a myth, plain and simple. The parrot, though weak, is incredibly effective in
+certain situations.
+
+The first mistake people make with the parrot is to just whip the thing out and direct it at the 
+first enemy they see, regardless of the enemy's condition. This simply will not work. Unless the
+target is completely oblivious to your presence, the poor bird will probably not get much more than
+two hits in before exploding into a mess of red goo. Let me reiterate - DO NOT USE THE PARROT AGAINST
+PEOPLE WITH HEALTH ABOVE THE "Badly Injured" RANGE. The parrot simply will not be able to do enough
+damage before getting whacked. 
+
+The parrot is only effective when paired with another weapon, especially the blunderbust. Let off
+a blunderbust shot in someone's face. If it doesn't kill them, it will leave them with around 10 HP. 
+Chances are they'll try to escape at this point. Take out your parrot, and sick the rabid bird onto
+the hapless enemy. The parrot might not survive, but all it will need to do is get in a few hits to
+take down your target for good. Remember, you can call back your parrot if he's missed the target. 
+
+Another strategy is to let out the parrot to distract your opponent. While he's busy trying to whack
+the crackers out of Polly, you can jab your blunderbust right into his spine and give him a great
+big cup of extreme pain. Note that this idea, though effective, often results in your parrot's
+rapid death. 
+
+Another myth about the parrot is that you cannot get another one once Polly has gone to the big
+pirate ship in the sky. If you leave your active weapon as the parrot (although you'll only have the
+hook), then a new parrot will come back to you in 15 to 20 seconds. Please note that you do NOT have
+to clamp down on the primary fire button with some sort of vice-grip for the parrot to return to 
+you. You only need to press it ONCE, when the 15 second time limit has gone by. 
+
+And then there's the hook. What can I say? It's a hook. It's not strong, but it is quick. The hook
+makes a nice match with the parrot, because like your feathered friend, it's only effective against
+badly damaged opponents. If you manage to weaken someone enough, don't be afraid to take out your 
+hook and give them a good...uh...hooking. The parrot can take a while to find and lock on to your 
+target, while the hook can be used immediately. The cutlass is probably a better choice than the
+hook, though.
+
+HOW TO DEAL WITH PIRATE CAPTAINS
+
+-Axe Viking vs. Pirate Captain-
+You're a lot slower than the Cap'n, so you'll need to be wary. If his blunderbust is loaded, take
+out your shield, and go into a defensive position. This is your absolute best defense against the 
+blunderbust. You can try to avoid its blast by jumping, but since Axe Vikings are slow, you'll get 
+hit anyway if the Captain knows what he's doing. Once his gun is unloaded, use your sword to beat 
+him to death. If the Captain comes running at you with his cutlass swinging, use your big axe's
+secondary swing to hit a home run. 
+
+-Spear Viking vs. Pirate Captain-
+This is easy. The only thing the captain has that has much hope of touching you is the blunderbust.
+You can try to dodge it by jumping or zig-zagging, or just take out your shield and try to cushion 
+the blast. Once his blunderbust is empty, he's no threat at all. Use your spear to jab the crud
+out of him when he tries to attack you with his cutlass. If he flees, use your charge to flatten him
+from behind. Also, if you're lucky enough to see a Captain reloading his musket, take out your 
+javelin and air mail him a present.
+
+-Berserker vs. Pirate Captain-
+This can be a little tough, especially if you're weak from using the berserk command. If you're 
+dealing with a lone Captain, don't bother berserking. To dodge his blunderbust, you'll need to
+jump, duck, and zig-zag, because you don't have a shield to block it. Your high HP should save
+you from getting hurt too bad by it, though. Once he's emptied his gun, use your dual axes to hack
+the crud out of him. If he flees, you might have to berserk to catch up to him.
+
+-Man-at-Arms vs. Pirate Captain-
+Dodging the blunderbust can be tough, because Men-at-Arms aren't that fast. Jump around a lot to
+throw his aim off. You'll probably get grazed by his shot, but you'll hopefully survive. For cutlass-
+happy Captains, use your mace to bash their skull in. Also, if you see a Captain reloading his
+gun, use your crossbow to pick him off at a distance.
+
+-Heavy Knight vs. Pirate Captain-
+The only weapon he has that can hope to hurt you at all is the blunderbust. If you're healthy, take
+out your shield and go into the defensive stance to partially block his shot. After that, take out
+your two-handed sword and use the secondary swing to kill him. If a Captain is stupid enough to run
+at you with only his cutlass, use the secondary swing to knock some sense into him.
+
+-Bowman vs. Pirate Captain-
+Keep your distance for as long as possible and try to hit him with your bow. Remember, his weapons
+are useless until he gets fairly close to you. If he sends his parrot after you, switch to the short
+sword and whack it. Your speed should make it fairly easy to avoid his blunderbust blast if he gets
+in close. If he DOES get in your face, all you can do is take out your short sword and have a sword
+duel with him. There's really no trick to sword fights with the Captain - just try to beat him in
+before he beats you in.
+
+-----------------------------------------------------------------------------------------------------
+SNIPER PIRATE
+
+Speed - Fast
+Max HP - 100
+Weapons - Marksman's Musket, Flintlock, Dagger
+Offense/Defense - Excels at defense, but makes good offensive support
+
+--General Information--   
+
+The Sniper Pirate is the lone wolf of the Pirate team. While the Skirmisher and Captain work best
+in groups, the Sniper Pirate is fully capable of going off on his own and doing considerable 
+damage. He's quick, and he has the most accurate, powerful ranged weapon in the game. There's a
+few things you'll need if you want to be a good sniper though. First, you'll need a good 
+connection. It doesn't matter how good you are if your ping is 500. To be very effective,
+you'll need a ping of at the very most 170, although lower is much better. The second thing
+you'll need is good aim. Unfortunately, I can't give you either of these things. 
+
+GENERAL STRATEGIES
+
+* "Reload Faster, Damn You!"
+The musket takes FOREVER to reload. It's a great weapon, but it just takes a very, very long time
+to re-arm. Nearly 3 times as long as the Captain's blunderbust, actually. You HAVE to find
+a good place to hide and reload your musket. If you stand out in the middle of an open field
+while reloading like an idiot, then don't be surprised if an archer spots you and plants an arrow
+in your forehead. This is the only time where a Sniper Pirate truly needs his team members.
+If you can get even one ally to distract anyone who might attack you, it really is quite helpful.
+
+* Cowardice Ahoy!
+The Sniper Pirate is, without contest, the WORST melee fighter in the entire game. His only
+melee weapon is basically a glorified letter opener. If your musket and pistols have empty
+chambers, you shouldn't hesitate to flee the scene. The dagger, although effective against
+severely weakened foes, is worthless against anyone who knows what they're doing. He who fights
+and runs away, lives to fight another day!
+
+* Crow's Nest
+Campers, as a general rule, are drawn to sniper-type classes. For you campers out there, find
+a good place to plant yourself. Roofs are the best sniper nests, but pretty much any area where
+you get a good view of a large region will do. Areas that give you a height advantage are also
+a great place to set up the old RV. As a rule of thumb, find a place that people frequently pass,
+but don't immediately think to check when they go by. 
+
+WEAPON STRATEGIES
+
+MARKSMAN'S MUSKET
+Damage - Very High
+Maximum Ammunition - 50 rounds
+
+The musket, or "sniper rifle" as it is often called, is THE most accurate weapon in the game.
+It packs a ridiculous punch, generally smearing even Heavy Knights with one shot. Unfortunately,
+you'll need good aim if you want to hit people with any sort of frequency. 
+
+First off, the musket is powerful. REALLY powerful. I'm talking "Jesus tapdancing Christ that hurt"
+powerful. If you hit someone above the belt, they're almost definitely dead. And if they're not, 
+they're extremely close to being so. But you need to line up your shots right, because chances
+are you're not going to be able to get a second shot off before they notice you and knock you
+off your perch. Remember, the musket is a hitscan weapon. This means that as soon as the trigger 
+is fired, anything in the crosshair is going to be a red splat. You don't need to lead your shots
+as you would with one of the arrow-firing weapons. Also, gravity is not a factor with the musket.
+
+Now that you know a bit about the musket, it's time to put that knowledge to use. Don't fire at 
+people moving erratically, you will almost certainly miss. Save your ammo for people moving 
+perpendicular to the end of your barrel, or for people stupid enough to run right at you. For
+the love of God, remember to ready your gun (by pressing secondary fire) before you shoot at 
+something.
+
+The musket is very inaccurate when it isn't readied. But it isn't completely useless. If someone's
+right in your face and you don't have time to switch to your pistol, just empty the barrel into
+their jugular. If you're lucky you'll cream them, or at the very least distract them. 
+
+Reloading this thing is a pain in the ass, quite frankly. As mentioned before, it takes a very
+long time to reload. You need to find a secluded area, or failing that, an area where there's
+enough stuff going on to keep anyone who might attack you busy. 
+
+FLINTLOCK
+Damage - Medium to High, depending on where you hit
+Maximum Ammunition - 24 rounds
+
+The flintlock, contrasting with the musket, is very inaccurate. It's pretty much useless at 
+anything beyond 10 feet, and if you do hit anything beyond that range, luck is probably the
+major factor at work. It is actually quite strong, especially if you manage to plonk a shot
+into someone's head. The main problem is using it correctly. Because if you don't use it right,
+you'll never hit anything.
+
+Primarily, remember that the flintlock is a back-up weapon and should really only be used if
+your musket needs to be reloaded. Unlike the other firearms, you can get off 6 shots before
+you need to reload, and you can also walk around while reloading. The accuracy of the flintlock
+does not seem to be affected by moving or jumping, so feel free to backpedal or bounce around
+like a rabbit when using it. 
+
+Next, people moving side-to-side are VERY hard to hit with the flintlock. Wait until they stop
+zig-zagging if you want to have a reasonable chance at hitting them. If they don't stop, keep 
+backpedalling and lure them through a narrow doorway or hall where they'll be easy pickin's.
+Remember, as soon as you fire a musket shot, this should be the first weapon you take out 
+(unless you're camping up on a roof somewhere). Also, remember that as a Sniper Pirate,
+you're pretty much faster than every other class. This means you can safely backpedal and let
+them follow you around with little chance of them hitting you with a melee blow. 
+
+Fully reloading the flintlock takes a long time, but you can move while doing so. This means
+you don't need to run off and find a hidey-hole to reload in. You can just as easily stay where
+you are and run around to dodge enemy attacks. 
+
+DAGGER
+Damage - Low
+Maximum Ammunition - No ammo needed
+
+The dagger, or "butter knife" as it is often referred to, is really a rather pathetic weapon.
+Of course, it's supposed to be. But honestly, you just shouldn't use this unless you 
+absolutely have to. It's quick, I'll grant it that, but it is completely useless against
+foes with full health. The dagger is, however, surprisingly helpful in some situations.
+
+The musket and flintlocks are both good weapons, but they have drawbacks. The musket can only
+be used once before requiring a very long reload phase, and the flintlocks are horridly
+inaccurate. The dagger, on the other hand, doesn't need to be reloaded, and is 100% accurate.
+
+So when is it useful? Let's say you hit someone with a musket shot, and they're left hanging 
+with a few HP. If they're fairly close to you, whip out the dagger and give them a good
+poking. Keep in mind that if you're dealing with a class such as a Spear Viking or Heavy Knight,
+with powerful long-reach melee weapons, there's still a good chance of you getting caked onto
+the pavement. This is why the dagger works best against classes such as Axe Vikings, who really
+have no fast melee weapons. 
+
+And for God's sake, don't run at anyone with this thing out if they aren't severely battered.
+Unless you're just doing it for laughs or something. If you DO manage to kill a heavy knight or
+berserker at full health with this thing, you deserve a medal.
+
+HOW TO DEAL WITH SNIPER PIRATES
+
+-Axe Viking vs. Sniper Pirate-
+The sniper is one of your most dangerous opponents. If you're far away from him, and you see 
+him aiming at you, either get out of his view, or take out your shield and defend. You'll be easy
+to hit, but you won't get creamed. Alternatively, you can huck a few throwing axes at him to
+distract him or get him to back down. Up close and personal, watch out for his flintlock - a few
+good hits and you're gone. Use your throwing axes - snipers are fast, and you probably won't catch
+them with your melee weapons. It's unlikely that the sniper will run at you with his dagger, but
+if he does, use one of your melee weapons to clean his clock.
+
+-Spear Viking vs. Sniper Pirate-
+This isn't too tough. The spear is an anti-pirate weapon, so get in close and use it to jab him 
+to death. The spear's high range should make up for the fact that he's faster than you. On the
+other hand, if he's far away from you, you're in a rather tricky position. You might be tempted
+to hit him with your javelin, but I recommend against this. Remember that when using the javelin,
+you can only run forward or backward. This makes you really easy to hit with a sniper rifle. 
+Instead, you should jump around and zig-zag to try and dodge the musket. Of course, if you spot
+a sniper reloading, toss a javelin his way to weaken him up.
+
+-Berserker vs. Sniper Pirate-
+I wouldn't bother berserking unless you're dealing with a group of pirates. Your only defense
+against the sniper musket is to act erratically to avoid the shot. When you close the distance
+between him and yourself, you'll probably have trouble hitting him (due to your slow speed 
+and all). Jump to avoid his flintlock shots, and use your axes to hit him. If he's backpedalling
+and you can't seem to catch him, use your berserk as a last resort to snag the bugger.
+
+-Man-at-Arms vs. Sniper Pirate-
+Crossbow! A sniper who is reloading, or aiming at something is basically immobile. If he hasn't
+seen you, then use your crossbow to pick him off at a distance. In melee fights, jump to avoid
+his flintlock or musket, and use your flail to whack him good. Chances he'll be trying to run
+from you, so the flail is your best choice here. If he comes at you with the dagger, use whatever
+melee weapon you want to knock some sense into him.
+
+-Heavy Knight vs. Sniper Pirate-
+Ack! The Heavy Knight's most dangerous opponent on the pirate team is the sniper. Since you're so
+slow, don't even bother trying to jump around and avoid his fire. Instead, take out the shield
+and crouch. If you are at full health, you'll probably survive with about 60 HP to spare. It's
+very hard to get in close to a sniper, because of your slow speed. Use your two-handed sword's
+secondary swing to swat him at any opportunity. If he runs away, you should probably forget about
+him - you won't catch up.
+
+-Bowman vs. Sniper Pirate-
+This it the battle of the ranged weapon kings. Whatever you do, don't start charging your arrow
+while he's aiming at you. By powering up your arrow, you'll move slowly and be a lot easier to hit.
+Instead, jump around to dodge the musket shot, and then pick him off with arrows. If you're close
+enough, you can also use your short sword - he doesn't have any melee weapons that can stand up
+to it. 
+ 
+----------------------------------------------------------------------------------------------
+SKIRMISH PIRATE
+
+Speed - Very Fast
+Max HP - 100
+Weapons - Powder Keg, Flintlock, Cutlass
+Offense/Defense - Offense
+
+--General Information--
+  
+The Skirmisher is often called a newbie class, for little reason other than the fact that he
+has a powder keg. Granted, the powder keg can be lame at times, but that is the fault of the
+player. The Skirmisher is the fastest class in the game. Fast enough that he can easily run
+circles around anyone else, and can escape quite quickly if the battle isn't leaning to his
+side. As with the Captain, Skirmishers work best in groups. However, this is more true for
+Skirmishers than any other class in the game. 
+
+GENERAL STRATEGIES
+
+* Safety in Numbers
+The Skirmish Pirate is not the kind of class you should pick if you like to run off and 
+do your own thing. Skirmishers are most effective in groups of 2 or 3. It's not entirely
+impossible to be a lone Skirmisher and do fairly well, but they just do better in groups.
+If you run across a group of Knights or Vikings when you're alone, there's not much you
+can do except run (if you don't have your powder keg...). If you're in a group, you can
+work together with your allies to take down the big guys (heavy knights, berserkers) first, 
+and then pick apart the riff-raff. 
+
+* "Kegger!"
+A kegger is someone who takes out the powder keg as soon as they spawn, and blows the first
+thing they see into bite-size kibbles. This is not something you want to be. People will hate
+you. Not only that, the smarter people will eventually figure out how to hide from your blasts,
+causing you to waste your keg or worse yet, blow yourself up entirely. To prevent this, save
+your keg for when it really is useful. For instance, if you see a big group of knights or 
+vikings having a brawl, light the fuse and greet them all with some fireworks. Remember, a
+keg is pretty much wasted if you don't blow up at least two people. 
+
+* "With a glass of water on the side for dippin'..."
+Don't be predictable. What this means is, don't run in a straight line directly at your
+enemies. This might seem obvious, but it's especially true with Skirmishers. First off,
+your low armor and health will result in death if you ignore this strategy. Use your speed
+to your advantage. Jump, weave, duck, suddenly reverse direction, just do stuff that
+people wouldn't expect. This will make you much harder to target, and allow you to get close
+enough to the bewildered opponent to clock him in the head with your cutlass.
+
+WEAPON STRATEGIES
+
+POWDER KEG
+Damage - Depends on distance from blast. Universally lethal at the detonation point, 
+         relatively low at 20 feet away.
+Maximum Ammunition - 1 keg per spawn. Once you use it, you can't get another one back until
+		     you are killed. 
+
+The powder keg is one of the most controversial weapons in PVK. It has ridiculous power,
+capable of taking out entire hordes of enemies with one well-placed toss. However, you only
+get one of these for every death, so you need to use it right. Regardless, many people dismiss
+it as a lamer weapon. While it does have the capacity to be a very lame tool, it also has the
+capacity to be a legitimate weapon. 
+
+First of all, you need to find the right time to use it. Many people act like suicide bombers
+on a caffeine high and blow up the first thing that moves, often disembowling themselves in
+the process. This is the WRONG way to use the powder keg. Here are two scenarios. Read them both,
+and come to your own conclusion as to which is the most effective method.
+
+Scenario A 
+Mr. Skirmish Pirate is going for a walk and he sees a lone archer in the distance. Having had
+a very large cup of coffee that morning, Mr. Skirmisher catches up to the archer and takes out
+his powder keg. Seeing the imminent danger, the archer tries to run but can't escape. Mr.
+Skirmisher lights the fuse and they both get turned into a shower of miscellaneous body parts 
+and fluids.
+
+Scenario B
+Mr. Skirmish Pirate is going for a walk and he sees a lone archer in the distance. Being a sneaky
+bastard, Mr. Skirmisher follows the archer for a while until the archer comes upon a large
+gathering of Vikings and Knights beating the crud out of each other. The archer joins in the brawl.
+Meanwhile, Mr. Skirmisher lights his keg in the distance, and then throws it at the brawl. 
+Everyone explodes, while Mr. Skirmisher pulls out his umbrella to protect himself from the sudden
+red-colored rain. 
+
+Now then, which scenario put the keg to better use? I'll give you a hint - it's not A. 
+
+As the two scenarios outlined, the keg is best at cleaning house, not at one-on-one combat. Think
+of it like the MIRV grenades in TFC - it's a waste to use it on one person. Instead,
+save it for when you see a large group of people who are too busy hacking at each other to
+notice you. Happy New Years!
+
+Suicide kegging is another issue that comes up. Suicide kegging is when you blow yourself up,
+and try to take down as many people as possible. By doing this, you'll have pretty much a
+constant supply of kegs, although your score will suffer. Please avoid suicide kegging. Do
+it for the starving Ethiopian children. It's lame and has little purpose other than to
+irritate the rest of the people playing with you. 
+
+FLINTLOCK
+Damage - Medium to High, depending on where you hit
+Maximum Ammunition - 24 rounds
+
+The Flintlock is the only ranged weapon in the Skirmisher's arsenal, excluding the keg of 
+course. It functions exactly the same as the Sniper's flintlock, but due to differences in 
+the Skirmisher's style of play, it should be used differently. 
+
+It's still horribly inaccurate. But whereas the Sniper is best using the flintlock defensively,
+the Skirmisher should use the flintlock offensively. This means that backpedalling while firing
+isn't as necessary as it is for a sniper. Instead, run right up to the target, pull the trigger
+in his face, and then retreat when the poor sap realizes what's going on. Rinse and repeat. 
+This makes the flintlock extremely effective.
+
+As with the sniper, don't fire at people bouncing around or moving from side to side. The odds
+of you hitting them are simply not that good. Instead, use the flintlock against slower classes
+(heavy knights, axe vikings), and save the cutlass for faster targets. 
+
+Reloading the flintlocks is the same as with the sniper. It takes a while to reload, but you can
+move while doing so. Use your mobility to your advantage, and bounce around to avoid enemy
+attacks. Chances are, even skilled archers won't be able to hit you if you're unpredictable
+enough.
+
+CUTLASS
+Damage - Medium
+Maximum Ammunition - No ammo needed
+
+Unlike the Captain, the cutlass is the Skirmisher's PRIMARY weapon. This means that you should
+have it out most of the time. Since you're faster than the Captain, and can jump higher, you
+should have no trouble running circles around your target and pummelling the organ juices 
+out of them.
+
+The cutlass is quick. Easily the quickest weapon available to the Skirmisher. It's not too
+strong, but the fact that it's quick means you can take down even strong enemies in a few 
+seconds. That having been said, use the cutlass' speed and your speed together to your best
+advantage. Here is one of the most effective ways to use the cutlass, outlined into steps:
+
+1) Get up close to your enemy. Use your speed to your advantage, and bounce/zig-zag/act
+unpredictably to get close enough to hit them with your cutlass.
+2) Run circles around them while swinging the cutlass. If you're dealing with a heavy knight
+or a spear viking this might be hard to do, but if you're fast enough, not even the best 
+opponent will be able to target you properly. A good 4 or 5 whacks should take down most
+targets. 
+
+A feature of the Skirmisher's cutlass that is absent for the Captain is the ability to lunge.
+By pressing secondary fire, you will leap a short distance in the direction you're facing, 
+essentially lunging with your sword. A successful lunge attack does more damage than a regular
+hit, but it's also a lot harder to hit anything with a lunge since you need to time it 
+perfectly. PVK doesn't have a very large margin of error for detecting successful lunge
+connections. 
+
+The lunge should only be used in certain situations. Most importantly, DON'T USE THE LUNGE
+TO AVOID RANGED FIRE. It might seem like a quick way to dodge that arrow or javelin, but
+it often gets you into more trouble than it's worth. When you lunge, you are forced in one
+direction, making your path very easy to predict for anyone targetting you. All the attacker
+has to do is aim where you'll be at the end of the lunge to hit you. In fact, it's probably
+a good idea to not use the lunge on anyone with a ranged weapon out. 
+
+Instead, save the lunge for dealing with slower enemies. It works especially well on axe
+vikings or heavy knights, since their weapons are slow and can be avoided relatively easily.
+The extra damage dealt by a lunge may also mean the difference between surviving a fight 
+and getting impaled. 
+
+HOW TO DEAL WITH SKIRMISH PIRATES
+
+-Axe Viking vs. Skirmish Pirate-
+For God's sake, watch out for kegs. If he takes out his keg, find some cover before it goes
+off. If you find yourself unable to find any place to avoid the blast, get as far away as
+you can and take out your shield. It will protect you somewhat from the explosion, but if
+you're really close you'll still get blasted. In melee fights, use your big axe's secondary
+swing to whack him when he comes in to get you with the cutlass. Throwing axes also work
+nicely if the skirmisher is trying to keep his distance from you.
+
+-Spear Viking vs. Skirmish Pirate-
+Easy. Once again, avoid the keg. Take cover, or failing that, get far away and cushion the
+damage with your shield. Up close, use the spear's superior range to fix the skirmisher's
+little red wagon. Be careful, the skirmisher is fast and might take you by surprise. Use
+your charge to catch up to him if he tries to retreat.
+
+-Berserker vs. Skirmish Pirate-
+Your HP will let you survive a keg blast if you're a reasonable distance from it. If you
+DO see a skirmisher take out his keg, go into berserk mode and kill him before he can
+drop it. Use your dual axes to kill him quickly. When dealing with a kegless skirmisher, 
+don't bother berserking. Instead, use your dual axes to hit him. Be sure to avoid his lunges -
+a good skirmisher can use it to attack Berserkers completely unscathed. Whenever he gets
+close enough, whack him with the axes.
+
+-Man-at-Arms vs. Skirmish Pirate-
+This can be a little tricky. If he takes out his keg, find cover, or get as far away as 
+possible. Remember, you don't have a shield to cushion the blast. If he comes at you with his
+cutlass, take out your mace and bash his brains in. The flail can work, but due to the slow
+"winding up" process, the mace is easier when dealing with this quick foe. Don't bother trying
+to hit him with your crossbow unless you've got an easy shot at him.
+
+-Heavy Knight vs. Skirmish Pirate-
+A good heavy knight can take down entire crowds of skirmish pirates, assuming they don't all
+keg. Of course, they probably will. As a heavy knight, learn to fear kegs. You're too slow
+have much hope of finding cover, so your best defense is the shield. Once his keg is gone,
+use your sword's secondary swing to keep him at bay. You can hold back entire droves of
+skirmishers with your two-handed sword, so put it to use.
+
+-Bowman vs. Skirmish Pirate-
+This is tough. The skirmisher is fast, and can easily dodge your bow/crossbow if he knows what
+he's doing. It might be a good idea to drop your ranged weapons entirely and try your luck
+with the short sword. If you think you're good enough, try to use your bow to weaken him 
+somewhat before you go in with the sword. As for kegs, you're pretty quick, so it shouldn't be 
+too hard to find cover.
+
+---------------------------------------------------------------------------------------------
+VIKINGS
+
+AXE VIKING
+
+Speed - Slow
+Max HP - 125
+Weapons - Big Axe, Throwing Axes, Sword & Shield
+Offense/Defense - Pretty much the same at both
+
+--GENERAL INFORMATION--
+
+The Axe Viking is the most well-rounded Viking class. He excels neither at defense nor
+offense. He has decent ranged weaponry and powerful melee capabilities as well. However,
+the axe viking is a class that takes a lot of getting used to. His primary melee weapon
+is very slow, although devastating. His ranged weapons are also particularly tricky to
+use. The axe viking also is the most vulnerable of the viking classes. Unlike the berserker
+and spear viking, he has no weapon where he can merely hold down attack and move into
+things to kill opponents. He is also the slowest viking class overall, making him poor
+at dealing with snipers or archers. On the plus side, a good axe viking can take down
+entire hordes of foes if he plays his cards right. 
+
+GENERAL STRATEGIES
+
+* "Scharfschutze!"
+The Axe Viking is not suited to dealing with ranged fighters. It's just a fact of life.
+He's slow and his ranged weapons are difficult to use (and not terribly strong, either).
+These two things mix together to make a class that just sucks against archers and
+the like. There are a few things you can do to deal with long-range opponents, though.
+If you're dealing with Knights, you can use your shield to try and block arrows, although
+this doesn't always work well. Pirates on the other hand, are a bit tougher. Shields
+don't block gunfire entirely. Your only hope against a skilled sniper is to jump around a
+lot and try to knock his aim off with your throwing axes. Or, you can take your chances
+with the shield and just crouch into the fetal position with it deployed. You'll take
+some damage, but you should survive unless you're close to death. 
+
+* Swing Wisely
+The Axe Viking's weapons are very specialized. For instance, the Big Axe's secondary fire
+is great against quick foes such as pirates, but hard to use against heavy knights.
+On the other hand, the primary fire of the big axe is very difficult to use when dealing 
+with pirates and great when taking on heavy knights. Pick your attack method wisely. In some 
+cases, the big axe just might not be a good choice entirely. Don't forget about your
+sword!
+
+* Melee or Bust
+The Axe Viking, though well-rounded, is best at fighting when he's right up in an opponent's
+face. Few things can take a hit from the big axe and hope to live with much more than few
+HP. If someone seems to persist in keeping the battle at range, it might be a good idea to
+leave and find something more productive to do rather than get lured into a vulnerable 
+position. Stick to what you can do best.
+
+WEAPON STRATEGIES
+
+BIG AXE
+Damage - Very High
+Maximum Ammunition - No ammo needed
+
+The Big Axe is one of the trickiest weapons in the entire game to use. Timing is 
+absolutely crucial with the big axe. It's slow, and you don't always get very many
+chances to swing it. So you need to make as many blows connect as possible. PRACTICE,
+PRACTICE, PRACTICE. It's the only way you'll get to be able to use the big axe with
+any efficiency.
+
+You can swing the Big Axe in two ways. By pressing primary fire, you'll swing the
+axe in a huge, slow, downward chop that will eviscerate practically anything. The 
+secondary fire, on the other hand, is a side-to-side swing. It's not as strong,
+but it's faster. Also, you cannot move while swinging to the side.
+
+Each attack method has a time and a place where it should be used. Many people just
+press primary fire and completely forget about the secondary swing. This is a huge 
+mistake, and will severely hamper your ability to use the Big Axe. Instead, analyze
+your opponent before you swing. Is he quick? Is he slow and heavy? How much health
+does he have? All of these things should be considered before you swing.
+
+If you're dealing with a speed demon, such as a pirate or even an archer, the
+secondary swing is your best chance. Fast opponents can easily dodge your primary
+swing due to its slow rate of fire. The secondary swing, on the other hand, is 
+quick. Lure the opponent into coming up to your face, and then slash him right
+in the jugular. If it doesn't kill them outright, they will be quite shaken and
+probably be close to death. 
+
+On the other hand, you might be facing a heavy knight or man-at-arms. These two
+classes are relatively slow, and aren't that good at dodging enemy fire. This is
+when you'll want to put your primary fire to use. Since you're about the same speed
+as them, you shouldn't have much trouble connecting the axe head with them. The
+downward chop is quite powerful, and will likely finish them off with one hit. 
+
+Opponent health is the other thing to consider. If they're healthy, don't hesitate
+to give them a good downward swing to weaken or take them down completely. If they're
+near death, try the secondary swing. Or you can even just take out your throwing
+axes and finish them off that way. One thing to watch out for with the secondary
+swing, however, is the way that you become planted to the ground as soon as you
+swing. This immobility makes you vulnerable for the second that it takes to swing the
+axe. Try to avoid using this against pirates with loaded muskets, or archers with
+readied arrows. 
+
+THROWING AXES
+Damage - Medium
+Maximum Ammunition - 8 Axes
+
+The throwing axe is the only ranged weapon available to the Axe Viking. They're 
+fairly difficult to use, but once you learn how to get them right they're quite
+handy. Throwing Axes are pretty strong, but it may take up to 4 or 5 of them
+to take down strong opponents. Axes that don't hit entities (which includes
+players, doors, and treasure chests, among others) remain stuck in the surface
+they hit and can be picked up for reuse. The longer you hold down the attack
+button, the farther the axe will be thrown. 
+
+Now you need to know how to use the throwing axes. Unlike the pirate's ranged
+weaponry, the throwing axes are affected by gravity. This means that the projectile
+will, without fail, eventually hit the ground (if it doesn't hit a wall or other
+obstacle). To correct this, you should throw the axes ABOVE your target. This is
+most important when dealing with distant foes. For instance, if you see a sniper 
+taking aim at you 20 feet away, hold down fire and aim an inch or so above their
+head. This way, the axe will arch up, and come back down to connect with the
+target. Remember that you don't need to correct for gravity if someone is right
+in your face. As with all non-hitscan weapons, it's important to lead your
+shots with the axes as well. All this means is that you should aim where your
+opponent will be when the axe reaches, not where they are when you throw. 
+
+There are certain situations where it is best to use the throwing axes. One
+of the most effective ways is to use them against retreating weakened foes.
+Since the Axe Viking is slow, he probably won't be able to catch up to anyone
+fleeing the battle. If someone chickens out and starts to rout, whip out your
+throwing axes and toss one at them. If they're weak enough, this will probably
+be enough to put their face in the dirt. 
+
+On the other hand, throwing axes are also a great way to soften someone up before
+you go in for the kill. Throw a few axes at someone to knock them around a bit,
+then go in with your sword or big axe to finish them off. The 30 or so HP that
+a throwing axe will take away from an opponent can mean the difference between
+a victory or a loss.
+
+Also, throwing axes are a great deterrant weapon. If someone sees an axe flying
+at them, the only thing going on in their head is "Get me the hell out of the
+way of that axe". If they have any brain at all, they'll move out of the way.
+This is most true of pirates, who really can't afford to take very many
+hits. Throwing axes are easy to dodge, but they're distracting and can shake
+someone's aim up enough to make them miss you. 
+
+SWORD & SHIELD
+Damage - Medium, Medium High with shield deployed
+Maximum Ammunition - No ammo needed
+
+The sword is the neglected weapon. Many players completely forget that it exists. However, it fills 
+in a critical weapon role for the Axe Viking that he would otherwise lack - it's a fairly strong, relatively 
+quick weapon that can be used in a pinch. The big axe is great, but let's face it - it's slow.
+The sword is the only weapon in the axe viking's armory that has a decent rate of fire.
+
+Now then, when should you use the sword? There really is no clear-cut answer to this. The big axe
+is good at dealing with tough enemies due to its powerful nature. The sword is not good at taking 
+on powerful foes at all. The sword is much better suited to dealing with low-middle strength
+enemies, such as pirates and men-at-arms. Its contrasting low power tends to make it rather ineffective 
+against heavily armored opponents.
+
+The sword, is, however, your only reliable back-up weapon. You'll eventually run out of throwing axes, 
+and you'll often miss with the big axe. The sword fills in the role of the throwing axes as a "finish off 
+the battered guy" weapon. Of course, it's not ranged like the axes are, so you'll need
+to get right up into someone's face to finish them off. If you see someone in the "Badly Injured" health 
+range or lower, it's probably in your best interests to use the sword rather than take your chances 
+with the big axe.
+
+One thing I haven't mentioned yet is the shield. The shield can be activated by pressing secondary fire. 
+When the shield is up, it will block all attacks that hit it, except for gunpowder weapons. It WILL 
+cushion the damage dealt by gunpowder weapons, but does not block it completely. To use the
+shield to its full effectiveness, you will need to crouch with it up. This minimizes the areas where a
+lucky shot could make it past your shield.
+
+When do you use the shield? Many people like to use it in sword fights. This can work, but due to the
+poor hit detection in PVK it's not very reliable. Instead, the shield should be your NUMBER ONE
+archer and sniper defense. If you crouch, and gradually move towards your target  with your shield up,
+they can literally do practically nothing to get past it. Chances are they will eventually give up or run 
+away, at which point you can put down the shield and pursue. Be careful that someone
+doesn't sneak up behind you and amputate your spine while you're advancing, however. Also, 
+remember that you move slower when your shield is up. 
+
+Also, remember that you can use the sword while the shield is deployed. But for the split second that 
+you swing your sword, the shield will be ineffective. For this reason, you should avoid swinging your 
+sword with your shield up if someone is prepared to hit you in this split second. This is especially
+important when dealing with snipers and archers, as a hit from them will severely weaken, if not kill you.
+
+HOW TO DEAL WITH AXE VIKINGS
+
+-Pirate Captain vs. Axe Viking-
+Most importantly, keep your distance. His big axe will cream you easily, so don't get in his face unless
+you absolutely have to. He's slow, so it shouldn't be too hard to hit him with your blunderbust. Jab
+the barrel right up into his gut between big axe swings and send him to the intensive care unit. If that
+doesn't finish him off, use your cutlass to get in between swings. You should be able to start a pattern -
+he swings his big axe and misses, you move in and whack him, then retreat. Repeat process. Throwing axes
+are pretty easy to dodge - just sidestep.
+
+-Sniper Pirate vs. Axe Viking- 
+Once again, stay far away. He shouldn't be too hard to hit with the musket. If you hit him and he survives,
+go in with your dagger to finish him off. If you miss him with the musket completely, your job gets a bit
+harder. Take out your flintlock and get fairly close to him, but still far enough away that you can dodge 
+his big axe with relative ease. Give him two or three hits with the flintlock. If he isn't completely 
+dead, go in with your dagger to finish him off. NEVER ATTACK A HEALTHY AXE VIKING WITH YOUR DAGGER. Watch
+out for throwing axes, especially if you're reloading. 
+
+-Skirmish Pirate vs. Axe Viking-
+This is pretty easy, actually. Your high speed makes it very easy to dodge the big axe and throwing axes.
+Between big axe swings, get in his face with your flintlock or cutlass, and hit him once or twice. Repeat
+the process until he's dead. You can also easily run circles around him, beating him in with your cutlass.
+Just watch out for the big axe, because a good hit from it will easily kill you.
+
+-Man-at-Arms vs. Axe Viking-
+This is quite easy, if you're quick. What you need to do here is look for openings between big axe swings,
+and then go in and whack him with your mace or flail. Backpedal with your flail winding up, and wait for
+him to try a downward chop with the big axe. After he's swung, get in and let the flail loose in his face.
+He'll probably die, or at least by quite injured. The crossbow also works well, because the Axe Viking is 
+too slow to dodge arrows effectively. Watch out for throwing axes - you're no speed demon yourself, so
+they can be hard to sidestep.
+
+-Heavy Knight vs. Axe Viking-
+The big axe is pretty much the only melee weapon in the game that comes anywhere near matching the two-
+handed sword's power, so watch out for it. Since you're so slow, it's really hard to avoid his axe. Duck
+a lot, and try to lure him into running at you so that you can connect with your sword. Use your downward
+swing - if it doesn't kill him, it'll leave him very close to death, at which point you can finish him 
+with your secondary swing. I don't recommend using the flail or regular sword on Axe Vikings - the big
+axe is quite dangerous, and you should pull out all the stops to finish him before he can use it.
+
+-Bowman vs. Axe Viking-
+Easy, easy, easy. Just keep your distance, and there's not much he can do to you. Use one of your bows to
+hit him from a distance. Axe Vikings are slow, so he probably won't be able to dodge your shots very 
+well. If he's smart enough to use his shield to block your arrows, it gets a little trickier. Try to look
+for openings when he swings or stands up, and hit him then. If you can't seem to hit him, take out
+your short sword and go in. He'll probably switch weapons, at which point you can quickly go to the 
+crossbow and blow him a third airhole. 
+
+-------------------------------------------------------------------------------
+SPEAR VIKING
+
+Speed - Medium
+Max HP - 115
+Weapons - Spear, Javelins, Sword & Shield
+Offense/Defense - Awesome at defense, good at offense
+
+--General Information--
+
+The Spear Viking is the easiest Viking class to use and do well with. But it isn't a newbie class by any
+stretch of the imagination. He has the strongest ranged weapon in the Viking arsenal, and is also the
+fastest Viking class (under regular circumstances). Of course, he's not all that fast compared to the
+pirates. Dealing with enemy Spear Vikings is one of the most frustrating experiences in PVK. 
+They can simply hold down attack with their spear out, and you really can't hope to get near them
+with any sort of melee weapon without taking damage. But when YOU'RE that Spear Viking, it's
+a completely different situation, ain't it?
+
+GENERAL STRATEGIES
+
+* Attack1 + Forward = Dead
+Only a few classes in PVK have weapons that can be used constantly by merely pressing
+primary fire. Luckily, the Spear Viking is one of them. This means you can essentially
+hold down the left button on your mouse and move into things to obtain kills. I personally don't like 
+doing this due to the fact that it is ridiculously easy, but if you're facing particularly skilled 
+opponents, don't hesitate to start jabbing that spear out at a constant tempo. But remember,
+you'll need to find other ways to use the spear if you want to be truly effective with it.
+
+* Iron Maiden
+Spear Vikings are INVINCIBLE when in large groups. I'm not even joking here. Nothing short of 
+a keg, or a horde of heavy knights can stop 3 Spear Vikings working together. Pair up with one
+or two other spearmen, or even a berserker. A small squad of spearmen and berserkers are one
+of the most effective raiding units in PVK. The spearmen can distract and impale any guards,
+while the berserkers use their berserk ability to make off with treasure chests quickly in the
+confusion. 
+
+* Narrow Corridors Are Your Friend
+Normally, narrow corridors are places to be avoided. But in the case of the Spear Viking,
+they're one of the best places to be. By pressing secondary fire with your spear out, you will
+rapidly run in the direction you're facing, and shish-kebab anything in front of you. Since
+narrow halls provide little in the way of maneuvering, there's not much anyone unlucky enough
+to be stuck in one with you can do to get away. One thing to watch out for is snipers or
+crossbow-users, who can easily hit you in these situations. 
+
+WEAPON STRATEGIES
+
+SPEAR
+Damage - Medium
+Maximum Ammunition - No ammo needed
+
+The spear is your leader. Bow down to the spear. Why, you ask? It's the easiest weapon
+in the Viking inventory to use, of course! Not only that, it's also strong, and pretty damn
+quick. Add to this a useful secondary fire ability, and you've got one great weapon. As
+mentioned earlier, the most obvious way to use the spear is to hold down attack and move into
+things. This works for a while, but if you want to be really good with it, you'll need to beef up
+your strategy.
+
+First off, the spear is the second-best defensive weapon in the game. The only weapon that
+passes it in this category is the two-handed sword. It doesn't look that impressive, but by
+holding down attack and moving around a bit, there's not much any melee fighters can hope
+to do to you. The spear leaves very little opening to attack due to its high rate of fire and 
+powerful nature. People hesitate to get near someone jabbing their spear. I know I do. This
+makes the Spear Viking the best defense class for the Vikings. Plant a Spear Viking
+in your treasure chest scoring zone, and you'll keep out the common thieves. Plant two of them in 
+there, and not even an all-out invasion can hope to make off with much more than one chest.
+
+That doesn't mean that as a Spear Viking, you're stuck on sentry duty. The spear is also a
+great offensive weapon. It's strong, and timing isn't nearly as essential as with the big axe
+or the hammer. To make the best use of the spear, however, you'll need to time your
+shots at least somewhat. Remember, the spear has the LONGEST REACH of any melee
+weapon in the entire game. If your opponent seems to be moving in, crouch and give him a 
+poke right in the genitalia. If he's smart he'll back off, but just in case, the crouch acts as
+a back-up dodging maneuever. 
+
+Now, about that secondary ability. By pressing secondary fire with your spear out, you'll
+run in whatever direction you're facing for about 4 seconds, and impale anything in front of you.
+When the charge ends (which can be due to either the charge time expiring, or due to you
+hitting something besides a player), you will be stuck in "tired mode" for about 5 seconds. 
+While in tired mode, you'll move slower, and cannot attack. This is a very vulnerable condition 
+to be in, so make sure that you don't use the charge unless you think you can completely
+finish someone off.
+
+The charge, though strong, also leaves you very vulnerable. During the actual charge, your
+path is fairly easy to predict, since you always run in whatever way you're facing. This makes
+it undesirable for use against archers, snipers, or pirate captains who can easily line up a 
+shot on you. After the charge, while in tired mode, you will literally become a magnet that
+attracts anyone that isn't a Viking. People love to take advantage of this vulnerability. Your 
+only hope is to crouch, jump, and do your best to avoid enemy attacks until your stamina is
+restored. Even more effective than dodging is to simply finish your enemies off while the charge
+is still going. This is best accomplished in areas where people can't maneuver much, such
+as bridges, ramps, or narrow halls. 
+
+One major mistake people will make while in tired mode is to hold down primary fire, so that
+as soon as you recover, you can attack. DO NOT DO THIS. If you attack as soon as you
+get out of tired mode, you will CONTINUE moving slowly, and will not be able to change
+weapons. This is an assumed bug, but it might have been intentional by the programmers. In any 
+case, it is best to wait until you have visibly regained your speed before attacking again.
+
+JAVELIN
+Damage - High
+Maximum Ammunition - 2 Javelins
+
+The javelin is my favorite ranged weapon. It's pretty easy to use, and it packs quite a wallop.
+The javelin has two modes - readied, and unreadied. While unreadied, the javelin cannot be
+thrown, and is held at a position perpendicular to the ground. While readied, the javelin 
+is held parallel to the ground, you'll also move MUCH faster when it is readied. You can
+only throw the javelin when it is readied. You cannot sidestep while the javelin is readied.
+Like the throwing axes, javelins that are thrown and do not hit objects such as doors, players,
+or chests can be picked up and used again.
+
+As with the axes, gravity is the most important factor to remember when getting ready to 
+throw. Once again, you'll need to aim above your target if it is standing far away from you.
+However, a new factor to consider is brought in with the javelins. If you are running forward
+when you throw the javelin, it will go considerably farther, but will not arc as high. If you are
+running backwards when you throw it, it will not go nearly as far. Finally, remember to
+throw where your target will be when the projectile connects, not where they are when
+you throw it.
+
+Now that you're familiar with the physics of the javelin, let's try them out. They're actually
+rather easy to get used to. They do considerable damage, although a single javelin
+will rarely kill an opponent with full health. It will takes about 2 javelin hits to kill an
+opponent. Which is convenient, because that's exactly how many you can carry. Another
+important thing to remember is to aim at your opponent's head. Javelin headshots are
+universally lethal, and getting one is largely determined by luck. By aiming at the head,
+however, you increase your chances of downing your opponent quickly. Remember,
+a pointed stick in your brain does more damage than a pointed stick in your stomach.
+Although, I guess they both do a lot of damage. Moving along...
+
+Javelins are one of the heaviest ranged weapons in the game. This means that, when 
+you hit someone with one, they're going to get knocked around a bit. It'll rattle 
+their bones, but it'll also rattle their position. If someone is standing next to a ledge, a javelin
+may be just what the doctor ordered to knock them off. If they're standing above lava, or
+a particularly high ledge, you won't get kill credit. But you'll get the satisfaction of watching
+them fall 400 feet and splat like a rotten tomato, or watch them boil for a second or two. You
+can also use the javelin's force to knock the aim of snipers and archers off, so that you
+can get in close and beat them to a pulp. 
+
+SWORD & SHIELD
+Damage - Medium, Medium to High with shield deployed
+Maximum Ammunition - No ammo needed
+
+The Spear Viking also gets the same sword and shield that the Axe Viking is equipped with.
+It's also overlooked by spearmen, perhaps even moreso than with axers. The sword itself
+is relatively useless for the spearman. Let's be honest, everything the sword does, the
+spear does better. However, the shield on the other hand, is quite handy. 
+
+Let's examine the sword, first of all. It's about the same speed as the spear, and there's not
+much difference in strength either. But the spear has a MUCH longer range. This is where the
+sword's usefulness falls to the floor. For all practical purposes, you shouldn't ever really need
+to use the sword as a spearman. I suppose if you get bored of the spear, then this weapon
+might provide a change of pace. 
+
+Now let's take a look at the shield. The spearman himself, though fast compared to the other
+Vikings, is not very good at avoiding ranged fire. It will take a while to close the gap between
+a bowman or sniper. To increase your defense, put up your shield, crouch, and advance. This
+"turtle" tactic can block arrows entirely, and cushion damage dealt by gunpowder weapons
+considerably. Continue moving in until you're within striking range.
+
+This is where the sword comes in. It's not a good idea to let down your defenses, especially
+if you're dealing with a bowman, who can ready arrows in a matter of seconds. As a safeguard,
+it's a good idea to keep your sword & shield out when dealing with bowmen, so that you can
+quickly raise your shield to block arrows. The sword provides a quick way to attack your 
+opponent when you see an opening to take advantage of.
+
+HOW TO DEAL WITH SPEAR VIKINGS
+
+-Pirate Captain vs. Spear Viking-
+Pirates don't do well against spearmen, but out of all the classes, the captain probably fares
+the worst against them. Your best chance is the blunderbust - try to kill him with it outright,
+or at least substantially weaken him. If you miss him completely, you're probably better off
+trying to lose him than you are taking your chances with the cutlass. Make sure you don't go after
+a spearman with your cutlass UNLESS they are severely weakened, or if they have their back to
+you. There's really no way to dodge their spear, and a well-thrown javelin will put you in
+Davy Jones' Locker. If you're not very healthy, it's probably a good idea to flee the scene.
+
+-Sniper Pirate vs. Spear Viking-
+If you're a good shot with the musket, this isn't that tough. Spearmen tend to run in straight
+lines more than other classes. If you see one with his javelin readied, or one using his charge
+ability, they'll be pretty easy to hit. Line up your shot and give them a one way ticket to
+the ER. If you miss, or are facing one with an unloaded musket, you'll need to use your flintlock
+to weaken them as much as possible. If both your musket and flintlock fail to kill the brute, then
+you might want to consider taking a coffee break somewhere else. The dagger is worthless against
+spearmen - don't even try unless they're horribly damaged. While you're reloading your musket,
+be sure to watch out for javelins. 
+
+-Skirmish Pirate vs. Spear Viking-
+You're ridiculously fast, so as long as you keep your distance you shouldn't have TOO much
+trouble. Use your flintlocks to do as much damage as possible, and then go in with your cutlass.
+You might get hit once or twice with the spear, but if you're quick then you'll kill him before
+he gets you. Avoid running in a straight line - you're quick, but moving in a predictable fashion
+makes you easy to hit with javelins. Try to avoid attacking a healthy spearman with just your
+cutlass. You might still be able to take him down before he can get you if you're healthy, but
+it's rather dangerous. 
+
+-Man-at-Arms vs. Spear Viking-
+This is pretty hard. Use your crossbow first - if they have their javelin out or are charging, then
+they should be pretty easy to hit. If the crossbow doesn't work, try the mace. The flail is a little
+harder to use, and skilled spearmen aren't the kind of guys you want to screw around with. It'll
+take about 3 mace hits to kill a healthy spearman. Be really careful - the spear is strong and has
+long range, so you might have trouble trying to hit him. If he starts backpedalling and repeatedly
+jabbing his spear, don't follow him. You need to get him to come to you, and whack him with the 
+mace when you see an opening. You're slow, so you probably won't be able to dodge the spear too 
+well.
+
+-Heavy Knight vs. Spear Viking-
+Spearmen are pretty good against Heavy Knights, but if you know what you're doing it isn't that
+hard. Watch out for javelins - you probably won't die if you get hit by one, but you'll get damaged
+pretty bad, making you a lot easier to finish off. If it's obvious that he's going to use the 
+javelin, get out your shield and try to block it. This is more effective than just trying to jump
+out of the way, since you're so slow. When facing a spearman in a melee fight, the two-handed
+sword is the way to go. The primary swing will take down a spearman in one hit, but it can be
+pretty hard to connect with him. I recommend the secondary swing because it's easier to use.
+
+-Bowman vs. Spear Viking-
+This can get challenging, especially if you're not a good marksman. Watch out for javelins - you're
+fast enough to sidestep them easily, but remember that you're vulnerable when your bow is taut or
+when you're reloading. Remember to KEEP YOUR DISTANCE. The short sword isn't that great against
+weak spearmen, and it's worthless against healthy ones. Your best chance is the crossbow - try
+to line up a shot on the target. If that doesn't work, you'll need to use your bow. If the spearman
+gets within striking range, start running away until you're a healthy distance from him, and then
+resume attacking.  
+
+------------------------------------------------------------------------------------------------------------------------------------------
+BERSERKER VIKING
+
+Speed - Slow (Fast while in berserk mode)
+Max HP - 150
+Weapons - Stone Hammer, Dual Axes
+Offense/Defense - Offense
+
+--General Information--
+
+The Berserker is the tank of the Viking team. He has more health than any other class in the
+entire game. And with his ability to berserk, he can also become very fast. The Berserker
+should be the first person into battle when you're conducting raids. His weapons are powerful,
+and relatively easy to get used to. Where his real power lies, however, is his ability to berserk.
+While berserking, you will gradually lose HP. But you'll move much faster, and your weapons
+will do even more damage. The Berserker is one of only two classes in the game that lack any
+sort of ranged weapon. This is the class to pick if you have anger management problems - it's 
+great stress relief to explode someone with a big hammer, or pick apart entire crowds with 
+two lightning-fast hatchets. 
+
+GENERAL STRATEGIES
+
+* "Urge to kill rising..."
+The most unique thing about the Beserker is, of course, his berserk ability. You can berserk at any
+time by pressing secondary fire, regardless of which weapon you have out. While berserked, your
+screen will turn red, you will move faster, and your weapons become stronger. On the down side,
+you will gradually lose HP. You will need to determine when it is a good time to use the berserk
+ability, however. If you spot one guy running around up ahead, it might be a good idea to pass up
+a berserking fit. On the other hand, if you see a bunch of Vikings brawling with a group of enemies,
+it might be a good idea to go into psycho mode and help your allies out. 
+
+* All You Can Eat Buffet
+If you're going to be a Berserker, you're going to need a big stomach. All that berserking will drain
+your health quick, not to mention that the class has a high max HP to begin with. You'll want to make 
+regular stops at food spawn locations, because you're going to be eating a lot of food if you want
+to keep your health up. Try to gobble up as much food as humanly possible, to prevent enemies from
+obtaining any of it. Also, avoid eating food while berserking, because your health will just continue
+draining. 
+
+* Oh my God! The pain is exclusive!
+Few classes have the capability for mass ass-kicking, but the Berserker is one. His high speed and
+strength while berserked make him into a one-man killing machine. While berserked, go completely 
+insane. Run directly at anything that isn't a Viking and hack it to bits. Throw away all regard you 
+have for your own personal safety. You'll find yourself getting killed more often than if you play
+conservatively, but you'll also find yourself getting a lot more kills, and indirectly helping your
+team out. While half of the enemy team is busy fending off your PMS rampages, the rest of your 
+team can focus on making off with chests, holding onto territory, pillaging, etc...
+
+* Riot Zones
+There are certain areas in EVERY map where, without fail, large groups of opponents will gather to
+beat the living daylights out of each other. Examples of these areas include the area outside
+the lighthouse on pvk_lighthouse, the Knight spawn area in pvk_desertruin, and the area around the
+lava on pvk_pinegrove. As a berserker, make regular stops at these areas with your dual axes to
+clean house a bit. Remember to berserk if you're dealing with a particularly large group. 
+
+WEAPON STRATEGIES
+
+STONE HAMMER
+Damage - Medium to High, High to Very High when berserked
+Maximum Ammunition - No ammo needed
+
+The hammer is one of two weapons that the Berserker wields. It's also the hardest of these two to
+use correctly. It's pretty strong, and has the capability to do a three-hit combo that will 
+KO anything. Two hits is enough to finish off most opponents, though. While berserked, the hammer
+becomes a truly fearsome weapon, although it's still rather difficult to use.
+
+First of all, it's not always a good idea to berserk with the hammer. The hammer is your one-on-one
+combat weapon, making berserking rarely necessary. Due to its (relatively) slow nature, it's not 
+terribly effective for crowd control, as the dual axes are. However, it IS fast enough to be very
+useful in a "mano E mano" situation. One of the most useful ways to use the hammer is as follows:
+
+1) Get ready. Fake out your opponent and avoid his swings or shots. 
+2) Wait for an opening in the opponent's defenses. If you're dealing with a heavy knight, for example,
+a good time would be between his two-handed sword swings.
+3) Get right up in the guy's face and ring his bell once or twice. Back off when he retaliates.
+
+If you're berserked, this method is especially easy because of how quickly you can accomplish it. 
+Of course, if you're berserked, you probably won't need to be as methodical. If this is the case,
+run at the target like a madman, and crack the sucker's head like a pinata. Two blows is more than 
+enough to finish off pretty well anyone. 
+
+The hammer, though strong, is not that great against fast opponents. Pirates, for example, can dodge
+the hammer with relative ease. To counteract their speed, you will need to work on timing. Don't run
+around repeatedly pressing primary fire. You're much more likely to connect if you take the effort to
+time your shots, even when berserked. Remember, one hit is often enough to clean their clock. After a
+successful hammer connection, it's a good idea to take out your dual axes and finish them off. 
+
+DUAL AXES
+Damage - Low, Medium when berserked
+Maximum Ammunition - No ammo needed
+
+The dual axes are much easier to use than the hammer. They don't look as powerful as the hammer, but
+they have, in fact, a much higher capability for destruction than the hammer. They're extremely 
+fast - you can make about 5 hits per second. These are the riot stoppers - when you're 
+berserked with these things out, you can mop up entire crowds of enemies. 
+
+There is one group that should ALWAYS be dealt with through the dual axes - pirates. Pirates are
+quick, and the hammer just isn't fast enough to be very effective against them. Whereas you would
+have to carefully time swings with the hammer, you can just hold down attack and move into the little
+buggers with the dual axes. It shouldn't take more than a few hits to turn pirates into grog-soaked 
+corpses with these. I will outline two methods of using the dual axes. Both are very effective.
+
+1) Dual Axes vs. Single Opponents
+Don't bother berserking. If you've only got one opponent, then you'll probably flatten them faster if you
+berserk - but once they're dead, you'll be stuck with your health draining and no way to put the rest of
+the berserk to use. If you're feeling defensive, just hold down attack and dodge around a bit. They'll
+hesitate to come near you, unless they have ranged weapons. If they DO try to get near you, go aggressive
+and pummel their head like a punching bag. The axes are fast enough that they probably won't get in any
+more than one hit before you tear them a new piehole. On the other hand, if you're feeling offensive,
+chase after them. Eventually they'll slip up (get stuck on an obstacle, turn around and try to attack to
+get you off their back, etc.) and you can pound them around a bit. If someone escapes, you should 
+probably forget about them, rather than going into berserk mode and catching up. Unless of course they're
+stealing a chest, in which case you should do whatever you can to stop them. 
+
+2) Dual Axes as Riot Control Devices
+"Riots", or large gatherings of opponents, are common on every map. You'll need to find WHERE they are
+common on your own though. For instance, the Knight base on pvk_island is almost always full of 
+people. You'll need to find one of these brawls, go into berserk mode, and run into the fray. Your
+high HP should keep you relatively safe, unless you get hit by a stray arrow or a two-handed sword
+blow or something. Once you're in the fray, start swinging the axes and hack apart anything that moves.
+I've seen berserked folks completely clean house with only their dual axes. 
+
+Dual axes also serve another purpose that the hammer doesn't fill very well. They're great at finishing
+off weakened opponents. For instance, say you whack someone with the hammer and you're having trouble
+getting another hit in. Switch to the axes and toss their salad around a bit. The axes are a lot easier
+to hit people with, due to their high speed.   
+
+HOW TO DEAL WITH BERSERKERS
+
+-Pirate Captain vs. Berserker-
+This isn't too hard, if he isn't berserked. His slow speed makes him pretty easy to hit with the 
+blunderbust, although it's unlikely you'll kill a healthy one with it (he has 150 HP, remember). Use
+the blunderbust to weaken him as much as possible, and then go in with your cutlass. Run at the guy
+(or wait for him to run at you), and then duck to avoid his swings and hit him in the groin a few
+times. Quickly get out of his range before he realizes what's happening to his genitalia and retargets
+you. Berserked fellows are harder to deal with. Remember that they lose health when berserked - use
+this to your advantage. You can avoid him fairly easily until the berserk rage runs out, at which point
+he'll be easier to hit with the blunderbust or cutlass. Get him to tire himself out, and then pick
+him apart like a hyena.
+
+-Sniper Pirate vs. Berserker-
+The Berserker is one of the only classes that can take a musket shot and have a good chance of surviving.
+Of course, they'll only survive with a few HP, but whatever. If he's unberserked, do your best to line
+up a shot on him. If you hit him, great. If you miss, that's not so great. You can take your chances 
+with the flintlock, but if that doesn't work you should consider finding safer ground. Don't bother with
+the dagger unless they're visibly in the "Near Death" range. A berserked Berserker is another deal
+entirely. Don't try to use your musket unless they're running straight at you and you can easily
+hit them. Keep your distance and use the flintlock to damage him as much as possible. Alternatively,
+you can dodge him by ducking, jumping, and reversing direction suddenly until his berserk runs out, at
+which point you can resume peeling away at him with your pistol or dagger. Don't be afraid to run away
+if it's pretty obvious that you're not getting anywhere, though.
+
+-Skirmish Pirate vs. Berserker-
+This is surprisingly easy, especially against unberserked folks. You can use the flintlock if you want,
+but I usually just go right in the with the cutlass. Try to hit him with a lunge to start the brawl off,
+and then hack away at him while dodging his attacks. If he's using the hammer it's pretty easy to duck or
+sneak in between swings. If he's got the dual axes, use the "bull tactic" - run at him, duck, hit, and 
+continue past. If you're quick you won't even get touched. Berserked opponents aren't really that tough,
+either. They're faster, but you can still use the bull tactic to take them down relatively easily. If
+you're too beaten to take him on, you can run away pretty easily. Backpedal with your flintlock firing
+to deter him from pursuing you.
+
+-Man-at-Arms vs. Berserker-
+If there was ever an opponent to use the crossbow against, it's the Berserker. Their high HP will likely
+save them from immediate annihilation, but they'll be SEVERELY weakened by a successful crossbow hit.
+If a Berserker is running at you, take out the crossbow and do your best to hit him. If you hit, use
+your mace to finish him off. Otherwise, stick with the flail. Unberserked opponents are relatively
+easy to defeat - keep your distance by backpedalling. Wind up your flail, and let it slam into his
+face. Berserked foes are a little tougher. Their high speed and increased power makes it risky to
+try and time flail hits on them. I'd stick with the mace in these cases, since it's easier to use and
+does more than enough damage to kill a berserked fellow in a few hits.
+
+-Heavy Knight vs. Berserker-
+The Berserker is slow and has high HP. The two-handed sword's primary swing is ideal for dealing with 
+them. If he's unberserked, a single blow from the primary swing probably won't do him in completely -
+finish the job with a secondary swing. The flail also works nicely against Berserkers - get him to
+follow you, while you backpedal and wind up your flail. Then, let it go in his face. Berserked foes
+aren't that tough, either. A primary swing from the two-handed sword will probably do the job 
+nicely. If the Berserker is visibly weak, use your secondary swing to mow him over quickly. A 
+berserked foe often throws away regards for his own safety and won't try to dodge it, anyway.
+
+-Bowman vs. Berserker-
+Berserkers have absolutely no way of touching you - IF you can keep your distance. This isn't always
+easy, especially if he decides to berserk. Do your best to hit him with an arrow before he closes
+the gap between him and you. If you hit him, great - use the bull tactic with the short sword to
+finish him off. It'll probably still take 3 or 4 hits to kill him because of his ridiculous HP, but
+it's still safer than trying to plant another arrow. If you miss him completely, you're in some hot
+water. If you don't have time to take another shot, get the hell out of there. You can take your 
+chances with the short sword, but unless the Berserker is completely inept, he'll probably crack
+your head like a walnut before you can kill him. Try to lose him, or at least regain some distance
+so that you can take another crack at him with the arrow. 
+
+-------------------------------------------------------------------------------------------------------
+KNIGHTS
+
+MAN-AT-ARMS
+
+Speed - Medium
+Max HP - 115
+Weapons - Flail, Crossbow, Mace
+Offense/Defense - Both
+
+--General Information--
+The Man-at-Arms is the most well-rounded class on the Knight team. While the Bowman excels at ranged
+attack, and the Heavy Knight is the king of melee, the Man-At-Arms has both good ranged and melee
+weaponry. Think of him as the 'jack-of-all-trades' for the Knights. He's not that fast, but he can take
+a fair bit of damage before giving up the ghost. This, combined with his multitude of weapons that are
+useful in many situations, mean that he can do equally well as an offensive class or a defender. Like
+all Knights, the Man-at-Arms works best when paired up with allies.
+
+GENERAL STRATEGIES
+
+* Soften 'em Up (Strategy by [99% Vol.]MahaTmA GhAndi)
+Soften up your opponents before you go in to kill them. The only ranged weapon you have is very powerful,
+and will actually probably kill the target outright rather than weaken them. But you should always
+take the effort to fire a crossbow shot at anyone approaching you, if you have time. If you're lucky,
+you'll peg them and watch them fly 20 feet and smack onto the pavement. If you miss, or it doesn't kill
+them completely, you'll have to go in with your flail or mace to take them out. 
+
+* Man of Many Arms
+As a Man-at-Arms, there's lots of options open to you. If you're feeling lazy you can plant yourself
+in front your treasury and stop thieves from getting in - the flail is an excellent defensive weapon.
+Of course, if you'd rather go off hunting, that's easy too. Examine your team's situation and see what
+you need more of. If you notice that the other teams seem to be scoring a lot of points, it might be
+a good idea to go out and steal some chests, or hold onto the territory for a bit. On the other hand,
+if your team seems to be in a winning position, you can assist them in maintaining it by playing guard
+dog. The Man-at-Arms' versatility is where his value to the team lies. 
+
+WEAPON STRATEGIES
+
+FLAIL
+Damage - Depends on how long the attack button has been held down. Low if it is just tapped, High if
+         it has been held down for 5 seconds or so. 
+Maximum Ammunition - No ammo needed
+
+NOTE: The flail, for the purposes of the guide, is the spiked ball attached to the end of a chain. I'm
+aware that this is not how the game recognizes it, but I don't really care. It's a flail, case closed.
+
+The flail is the more difficult of the Man-at-Arms' two melee weapons to use, but it's considerably
+more effective than the mace when used properly. First off, the flail doesn't work like ANY of the 
+other melee weapons in the game. By holding down attack, you will begin "winding up" the flail for
+a swing. When you let go, the flail is whipped out, cracking anyone who might be unfortunate enough
+to be standing there. The damage dealt is directly related to how long you have been holding down
+the attack button.
+
+The flail is particularly hard to time with hits because of the way it works. Rather than pressing
+a button, you have to release one to make it "fire". You'll need to practice a lot to be able to time
+your releases well. If someone is coming near you, release. It takes a split second for the weapon to
+leave the "winding up" animation and enter the "swing" animation. This delay makes it especially hard
+to time everything right.
+
+Whenever you have the flail out, you should be holding down primary attack to wind it up. This way,
+if you run into someone, you're ready to go and don't need to dawdle around waiting for the thing to
+power up enough to be useful. Remember to aim for the HEAD when you release. It's not that difficult
+to aim an inch up and clock them in the noggin, and the benefits are quite noticeable. A fully wound
+up blow from the flail to the head generally gibs anyone, except for perhaps a healthy viking.
+
+One of the most effective and simple ways to use the flail is defensively. What this means is, you
+need to lure the opponent into a straight-out chase after you. Turn around and backpedal, while still
+winding up your flail. If he gets close enough, give him a good spanking with it to knock him back
+a few feet. If you're dealing with a class that can't catch up to you (axe viking), quickly move into 
+him, release, duck, and sneak behind him. The hit will shake him up, and the duck/sneak will throw him 
+off. 
+
+The flail has a ridiculous capacity for knocking people around. When you hit someone with a wound-up 
+flail, they'll go FLYING if they happen to be airborne or standing on a ledge. This is especially
+true for anyone crouching in either of the aforementioned situations. If you're lucky enough to find 
+someone going for a tight-rope walk on a high ledge, try to knock them off with the flail. To get the
+most air out of someone, you'll need to crouch and give them an upward blow to the groin. Depending
+on the class you're dealing with, or if they happen to be jumping at the time, they will fly anywhere
+from a foot (which will ruffle their feathers a bit) or thirty feet (which will probably result in
+a satisfying splat). 
+
+Especially vulnerable to the flail are vikings, and axe vikings in particular. The big axe is slow,
+and it's quite easy to avoid its swings. To deal with axe vikings quickly, wait for them to take
+out their big axe and make a downward swing at you. Avoid the swing, then get in his face and let 
+it loose while he recovers from his swing. Retreat before he can get in a sideways swing on you. 
+
+There's only one time you should use the flail without winding up, and that's when you're dealing
+with a particularly weakened enemy. It's quicker to use a wimpy flail swing on a weak person than to
+go through the hassle of switching the mace and bashing them in. Even on very weak opponents, 
+however, it will still probably take two wimp-swings to finish them off. Of course, you can get off
+about two wimp-swings every one and a half seconds, so that's not too bad. 
+
+CROSSBOW
+Damage - Very High
+Maximum Ammunition - 25 bolts
+
+The crossbow is the Man-at-Arms' only ranged weapon. It packs a tremendous punch, killing nearly any
+target with a single shot above the belt. Unfortunately it can be hard to aim, and it takes a while
+to reload. You can't move while reloading, which puts you in a vulnerable position when you do so.
+You'll start with more rounds for this thing than you'll probably ever be able to use, so don't worry
+too much about running out of ammunition. 
+
+As with most ranged weapons, ping is a concern when using the crossbow. If your ping is very high,
+you'll need to compensate by leading your shots more. You should always lead your shots (ie: shoot
+where your enemy WILL be, not where he is when you fire), but this is especially important with the 
+crossbow. Mainly because, the crossbow takes a while to reload, and you probably won't get another 
+shot in. Consider the crossbow a mix of the sniper rifle, blunderbust, and javelin. It has high power
+like the sniper rifle, but takes about as long to reload as the blunderbust. Also, its projectiles
+are affected by gravity, like the javelins are. Also, it's not hitscan, as the gunpowder weapons
+are. Finally, it also needs to be aimed (by pressing secondary fire) to maintain any sort of 
+accuracy. 
+
+First of all, since the crossbow is kind of hard to aim, always try to lure your opponents into 
+vulnerable positions. Doorways are excellent places, as are narrow hallways or paths. Get your
+pursuer to follow you into one of these spots. Then quickly do an about-face, ready the crossbow,
+and plant a bolt right in their chest when they enter. 
+
+The crossbow is a bit harder to use in a wide-open field situation. Your opponents, if they're smart,
+will probably not run directly at you if they notice you have a crossbow out. Instead, they'll likely
+jump around a lot and zig-zag to throw your aim off. If they start doing this, it might be a good idea
+to take out a melee weapon and use that rather than risk your chances with the crossbow. If you spot
+someone moving at a 90 degree angle from the nose of your crossbow, fire a shot at where you think
+they'll be when the arrow reaches. If you're lucky you'll hit them, but you'll definitely at least
+get their attention.
+
+More than ANY other ranged weapon, the crossbow has the ability to knock people around. This is 
+actually rather odd, since it's just an arrow. But still, the awkward physics of PVK can work to
+your advantage. First of all, crouching players fly farther when they get hit. If you hit a crouching
+player in the arse with a crossbow bolt, they'll get a first-class ticket to the other end of the
+room. Use the ridiculous force behind your shots to knock people's aim off, or just plain nudge
+them around. 
+
+Reloading the crossbow, as with the gunpowder weapons, is a pain. It takes about 3 seconds to reload,  
+during which time you can't move at all. This provides the perfect opportunity for someone to run
+up and decapitate you, or turn you into a streak of red from 100 yards away. To avoid this, run off
+like a good little knight and find a secluded area to reload. Small rooms and dark corners are 
+your best choices. In general, find a place where walls prevent anyone from easily getting to or
+targetting you. If someone DOES get in your face, or you spot a sniper taking aim, quickly switch
+weapons and tear them a new one - or just leave, if they're really far away.
+
+MACE
+Damage - High
+Maximum Ammunition - No ammo needed
+
+NOTE: The mace, for the purposes of the guide, is the spiked ball attached to the end of a handle. I'm
+aware that this is not how the game recognizes it, but I don't really care. It's a mace.
+
+The mace is the fastest weapon in the Man-at-Arms' armory, being able to get off about 2 or 3 hits per
+second. It also deals a massive punch, disemboweling most weaker classes in 2 hits. It is definitely
+the easier to use of the two melee weapons a Man-at-Arms is provided with. This doesn't mean you should
+always use it, because the flail does indeed have a higher capacity for destruction than the mace. There
+are some times when the mace is simply a better choice than the flail, however.
+
+The flail's range is superior to the mace's. Let's just get that straight right now - the mace won't hit
+anything unless you're right up next to it. This isn't the thing to use if you're chasing someone faster
+than you. Unlike with the flail, you don't really need to aim at the head for extra damage. In fact, it's
+probably in your best interest to DUCK when you get near someone, to avoid counterattacks for a second
+while you get a hit or two in. For instance, let's say you're facing a Spear Viking.
+
+1) He's probably got his spear out and is repeatedly jabbing it out. Get ready to go in by dodging
+around. 
+2) Run in suddenly, and duck when you're within the spear's range. If you're lucky you'll avoid a hit
+entirely, but you might still get hit anyway.
+3) Give him a whack in the groin. Quickly jump away if you got hit in the previous step. If you didn't
+get hit, then circle around him and beat him in a few more times. 
+
+This is similar to the way one might use the cutlass. Well, they pretty much function the same way, so
+it's really not all that surprising. The mace, however, is stronger than the cutlass. But who should
+you use the mace against, and who should you use the flail against? The answer to this is really nothing
+more than a matter of taste. I find the mace to be most effective against pirates (since they're quick,
+and the mace is reasonably fast) and the flail to be better suited to vikings (since they're slow and
+strong, and the flail's characteristics give you the advantage here). All it really comes down to is
+which weapon you feel like using, since they pretty much fill the same purpose. 
+
+The mace, however, is better at finishing people off than the flail. One whack is probably enough to
+finish off anyone in the "Badly Injured" or lower health range, whereas it can take two or three 
+half-assed flail swings to finish off someone in that area. If you manage to whack someone good with the
+flail, but they still survive, it's a good idea to take out the mace and finish them off, especially if
+you're dealing with a pirate. 
+
+HOW TO DEAL WITH MEN-AT-ARMS
+
+-Pirate Captain vs. Man-at-Arms-
+This can be easy or hard, depending on which weapon the Man-at-Arms is using. You shouldn't have too
+much trouble avoiding the crossbow - just jump, crouch, and move erratically. Avoid moving in a
+straight line if he's aiming at you. Once you get in close, you'll need to avoid his melee weapon -
+which is either a flail or mace. The flail isn't that hard to dodge - since you're quick, he'll probably
+have a bit of trouble hitting you with it. To avoid it, get in, hit, and get out quick. If you're fast,
+he won't be able to touch you. The mace is a bit trickier. It's quicker than the flail, so avoiding it
+is nearly impossible. Two good mace hits will do you in, so you have to keep your distance. Do as much
+damage as possible with the blunderbust, and then go in with your cutlass - USE THE BULL TACTIC. If
+he's really weak, send out Polly to finish the job.
+
+-Sniper Pirate vs. Man-at-Arms-
+This can get hairy if you're not that good with the musket. You have no melee weapons capable of taking
+on the Man-at-Arms with, so you'll have to use your gunpowder weapons here. The musket is obviously
+the best choice, and since the Man-at-Arms isn't really a speed demon, it shouldn't be too terribly hard
+to hit him. I find it easiest to wait until he sees you and takes out his crossbow. Once he takes aim,
+hit him quick before he fires. If he does fire, sidestep before you eat the arrow. If the musket doesn't 
+work, you'll have to use your flintlocks. Keep far enough away to avoid his melee weapons, but close enough 
+in to make the flintlock somewhat accurate. If you can get him into the "Badly Injured" range, he's probably 
+weak enough for you to go in with the dagger and finish him off. 
+
+-Skirmish Pirate vs. Man-at-Arms-
+Use your flintlock first. If you can hit him even once with it, then he'll be a lot easier to finish with
+the cutlass. Watch out for the crossbow - you're quick, so you should be able to dodge it pretty easily.
+Of course, if you're moving in a predictable path (dead ahead) then speed is irrelevant: remember to 
+jump around and reverse directions suddenly to throw his aim off. When you get up close, the main weapon
+you need to look out for is the mace. The flail, though powerful, requires a wind-up to be of any 
+practical use, so you should have time to dodge it. The mace, on the other hand, is plenty strong, and
+can be used right away. Try not to use the lunge here - it makes your motion very easy to predict, leaving
+you easy pickings for a flail whack. Instead, try to run circles around him and pound him in with your
+cutlass. 
+
+-Axe Viking vs. Man-at-Arms-
+This is REALLY tough, especially if the Man-at-Arms knows what he's doing. When you meet a Man-at-Arms,
+take out your sword & shield and get ready to block his crossbow. He might fire a shot at you anyway,
+but chances are he'll switch to a melee weapon and try to get in close. At this point, you should switch
+to the big axe and knock him back with a secondary swing. DON'T USE THE PRIMARY SWING IN A ONE-ON-ONE
+FIGHT. It leaves massive openings between swings, making you ridiculously easy to hit with a flail 
+blow. Lure the opponent to coming in close to you, and then hit him back with a secondary big axe swing
+before he can react. This should weaken him considerably - take out your sword or throwing axes to finish
+him off. 
+
+-Spear Viking vs. Man-at-Arms-
+Fairly easy battle here. Most importantly, look out for the crossbow - take out your shield and crouch to
+block shots from it. For God's sake, don't charge at a Man-at-Arms with a loaded crossbow, or one winding
+up his flail for that matter. Try to draw him into a melee fight, because there you'll have the advantage.
+Before moving in, however, try to hit him with a javelin. If you hit him, chances are it'll only take
+one or two spear jabs to finish him off, making the job a lot safer. Once in close, it shouldn't be very
+hard to avoid the flail or mace - the spear outranges them both by a considerable margin. Lure him into
+following you, and backpedal with the spear jabbing out. He won't be able to touch you.
+
+-Berserker vs. Man-at-Arms-
+None of your weapons are particularly helpful against Men-at-Arms, so it's all skill here. I recommend
+the hammer, because of its high power and ability to knock people back a bit. Remember to watch out for
+that crossbow - a hit probably won't kill you, but it'll make you a lot easier to finish off. Don't 
+bother berserking. Instead, go in with your hammer and ring his bell, then quickly back off before he
+can hit you with the mace or flail. If you're more of a dual axe fan, then all you really need to do
+is get in his face and hack him to bits before he can kill you. This is easier, but it also results
+in you getting heavily damaged. 
+
+--------------------------------------------------------------------------------------------------------
+HEAVY KNIGHT
+
+Speed - Very Slow
+Max HP - 125
+Weapons - Two-Handed Sword, Flail, Sword & Shield
+Offense/Defense - Defense
+
+--General Information--
+
+You are a heavy knight. You are the most immediately dangerous class in the entire game. Other people
+cower in fear when they see you. Your two-handed sword has the capability to finish off any class with 
+one fell swoop, and your ridiculous HP and armor protect you from anything short of a keg. This is 
+definitely the class you'll want to use if you're just starting out in PVK. The combination of powerful 
+weapons and high  defensive capabilities create a class that is fairly easy for new players to use. His 
+slow speed leaves him vulnerable to all ranged attack, and his lack of ranged weapons further amplify 
+this weakness. Before I start, let's get one thing straight - the heavy knight is not a newbie class. 
+There are no newbie classes. There are, however, newbies who use the heavy knight in a way that makes 
+it seem like it is. An expert heavy knight has mastered all of his weapons, and puts them all to use. 
+This means he does NOT neglect everything else in favor of the two-handed sword. Each weapon has its 
+pros and cons in any situation. On the downside, the Heavy Knight cannot jump as high as the other
+Knights. Hell, it's a miracle he can jump at all with that armor. 
+
+GENERAL STRATEGIES
+
+* HALT! Who Goes There?
+The heavy knight is the best defender in the game. You can plant one anywhere that you don't want 
+the other teams to go, and chances are no one's getting past. This is especially convenient, because
+Knights are almost always the defending team on booty maps. Treat the heavy knight like a miniature
+watch tower. Pick a spot you think needs defending - your treasure chest areas are the most obvious
+spots, but choke points are also good places to camp. Remember that you're more valuable to your team
+defending an area than you are attacking.
+
+* ARROWED!
+As a heavy knight, your most dangerous foe is none other than the sniper pirate. His musket, which is
+extremely accurate and very powerful, along with the fact that he's kind of hard to catch, mean that
+you should keep an eye out for snipers. This is why I recommend pairing up with an archer or man-at-
+arms - their ranged weaponry can distract snipers while you close the gap. If you're on your own and
+come across a sniper taking aim at you, take out your shield and crouch. You'll be an easy target, but
+chances are you won't get killed from the hit - the shield cushions gunpowder damage considerably. This
+will give you the opportunity to get up close and beat the sucker like a red-headed stepchild. When
+dealing with throwing axes or javelins, it's also a good idea to take out your shield and block the
+projectiles, rather than try to dodge them.
+
+* The best defense is a good offense...or something
+While you should usually focus on defense, there are times when it may be better to go aggressive. If
+your team seems to be winning indefinitely, it gives you the perfect opportunity to run off to the
+pirate or viking bases and wreak havoc. Let's face it - guard duty can get boring, especially when   
+your opponents are busy beating each other up instead of trying to attack. Sometimes, you can be of 
+more help distracting half the enemy team inside their own base than you are watching paint peel 
+inside your treasury. 
+ 
+WEAPON STRATEGIES
+
+TWO-HANDED SWORD
+Damage - Very High (Primary Swing) High (Secondary Swing)
+Maximum Ammunition - No ammo needed
+
+This thing is the main reason that heavy knights are often avoided by players that aren't in the mood
+to get their asses kicked. It's also one of the reasons that the heavy knight makes an excellent class
+for new players to get used to the game with. The two-handed sword does more damage per swing than any
+other melee weapon in the entire game, even more than the big axe. The primary swing is where you would
+think most of the power lies, but the secondary swing is actually where the weapon's true power is.
+
+Let's look at the primary swing first. This one deals the most damage per swing, often killing even
+folks with full health in one blow. Despite this, it is the more difficult of the two swings to 
+use. The swing is quite slow, it takes a little more than a second to complete the swing. This means 
+that there is a large period where people can get in your face and slap you up while you're recovering
+from a swing. It's rather difficult to avoid this, but the easiest way is to use your secondary swing
+as soon as the primary swing finishes. This will make the opening between swings of minimal length, and
+if anyone tries to sneak in, they'll probably get smacked upside the head by the secondary swing.
+
+The primary swing is useful against practically any foe you'll ever face. It's best in large groups
+of people, since it takes care of people quick and painlessly (well, for you). It's the swing of choice
+when you're dealing with vikings, due to their low speed and poor ability to dodge. It will work well
+against the pirates too, but you'll need to time your swings more carefully. I find the secondary
+swing to be much better suited to dealing with pirates, however.
+
+Now let's examine the secondary swing. It's faster, allowing you to get off about two hits in the same
+amount of time it would take to make one hit with the primary swing. It's also pretty strong, usually
+requiring no more than 3 hits to take down someone at full health. It has considerable reach, although
+I'm not sure if it reaches any further than the primary swing. The secondary swing, fills a purpose 
+similar to the big axe's secondary swing - for dealing with puny foes, or severely weakened ones. 
+However, it has one massive advantage over the big axe's secondary: you can move around while using it.
+Essentially, you can repeatedly press secondary swing to become a walking death machine. No one can
+hope to get in and do any actual damage to you without getting creamed themselves.  
+
+For finishing off weakened enemies, the secondary swing is the weapon of choice. One sideways smack
+will pretty much kill anyone who has been injured substantially. As for strategies, there really aren't
+many strategies for the two-handed sword. I recommend jumping while using it, as this makes you a bit
+harder to hit, and also harder to dodge your swings. Remember that you move slower when the two-handed 
+sword is out, so don't keep it out all the time - especially when you're trying to get to one place in 
+particular.
+
+FLAIL
+Damage - Depends on how long the attack button has been held down. Low if it is just tapped, High if
+         it has been held down for 5 seconds or so. 
+Maximum Ammunition - No ammo needed
+
+The flail is definitely the hardest of all of the heavy knight's weapons to use. Quite frankly, its
+usefulness is rather limited for the heavy knight. Obviously, the two-handed sword has a larger
+capacity for destruction, which often leads many players to forget about this weapon entirely and
+stick with the swords. I'll admit that the flail isn't particularly helpful for the heavy knight, but
+there are times when you might want to use it. 
+
+First off, the flail functions the same way as it does with the Man-at-Arms. By holding down attack,
+you will begin "winding-up" the swing. When you release the attack button, the flail will swing out
+and cream anything it hits. The longer you hold down attack, the more damage will be dealt. You will
+need to time your releases properly so that they connect with the target. Remember, the flail has
+better range than most melee weapons, so you don't need to be terribly close to someone to clock them.
+Also, recall that there's a slight delay where the weapon leaves the "winding up" animation and
+goes into the "swing" sequence.
+
+Remember that the flail is a secondary weapon for heavy knights, unlike the a primary weapon as it
+is for Men-at-Arms. I can only think of one reason why you would want to use this weapon instead of
+the two-handed sword - you move faster with this weapon out. The two-handed sword is...well, handy,
+but its obnoxious size hinders your movement. With the flail out you move faster, which can be 
+very helpful when you're chasing someone. The flail's long range, combined with your slightly upped
+speed, makes this into the chase weapon of choice for heavy knights. However, remember that you 
+have to wind it up for it to do any sort of real damage to someone. 
+
+While the two-handed sword is a lot better at defense (secondary swing + jump = invincible), you might
+at some point be inclined to use the flail for defensive purposes. Remember to backpedal, with them
+chasing you. Then when you see an opening between swings, move in and shatter their valuable face. 
+Few classes can survive a fully-wound up flail shot to the head with anything more than a few HP. If
+it doesn't kill them entirely, let off a few wimpy swings (just click, rather than holding it down)
+to finish them off.  
+
+The flail is an excellent weapon to use against vikings. Of course, the two-handed sword is too, but
+using that all the time gets boring. When dealing with Axe Vikings, get in between big axe swings
+and give them a good spanking. Berserkers and Spear Vikings are tougher because their weapons don't 
+have big gaps between swings like the big axe does. You'll need to rush up to them, duck, and give
+them a blow in the groin. Berserked Berserkers are actually fairly easy to avoid. Treat them like
+bulls, and duck down or jump out of the way to dodge them, and at the same time letting the flail
+go on them. Toro!
+
+SWORD & SHIELD
+Damage - Medium, Medium to High with the shield deployed
+Maximum Ammunition - No ammo needed
+
+The last weapon in the heavy knight's arsenal is the ever-reliable sword and shield. It functions
+exactly the same as the Viking sword/shield combo, except that the weapon skin is different. The
+sword provides a handy and quick alternative to the two-handed sword, while the shield provides
+something that the heavy knight DESPERATELY needs - defense against ranged weaponry. Press secondary
+fire to raise/lower the shield. 
+
+You're a heavy knight. You've got a big honkin' sword that can kill pretty much anyone in one hit.
+So why in God's name would you want to use this puny sword when you can use the big one? Well, first
+of all, you move faster with this sword out than you do with the two-handed sword. That in itself
+makes the sword worth using. Even more importantly, though, is that you can use the shield with this
+sword. The sword is also fairly quick, which makes it fairly effective against pirates or weakened
+foes. 
+
+The only realistic reason you'd ever NEED to use this weapon is for the shield. As a heavy knight,
+you are lucky, in that you never need to worry about avoiding arrows (since the only arrow-using
+classes are on your team). However, you DO need to worry about javelins, axes, and most importantly,
+muskets. The shield will completely block axes and javelins, and substantially cushion damage
+from gunpowder weapons. For this reason, it is a VERY GOOD idea to take the sword out and raise
+your shield out when dealing with snipers/captains with loaded muskets. Even at point blank range,
+if you have your shield up and are fairly healthy, it is unlikely that a blunderbust/sniper musket
+will kill you. It might leave you hanging with less than 30 HP though, but you should still be 
+able to take out your two-handed sword and finish them off. 
+
+Javelins are very hard to dodge as a heavy knight. Your only realistic defense against a Spear
+Viking with a good arm is your shield. If you see a spearman running at you, take out your shield
+and crouch. Unfortunately, the hit detection with javelins is rather poor, so you might get hit
+anyway. But taking out your shield gives you a better chance of avoiding damage than just trying
+to jump out of the way would. As a bonus, javelins/axes that are blocked by your shield are gone -
+that means, you don't need to worry about their tossers picking them up and trying again.
+
+HOW TO DEAL WITH HEAVY KNIGHTS
+
+-Pirate Captain vs. Heavy Knight-
+Ack. A Heavy Knight is a Captain's worst nightmare. Your blunderbust is helpful, but it's unlikely
+that you'll be able to do much damage to a heavy knight with it, unless you manage to get a real
+clean hit on him. Whatever you do, get as much damage out of the blunderbust as you can, because
+going in against a healthy Heavy Knight with your cutlass is suicide. If you miss, or just graze
+him with the blunderbust, it might be a good idea to put a lot of distance between yourself and
+him, and take the time to reload and try again. It's tiresome, but it'll be helpful in the long
+run. Once he's in the "Badly Injured" range, it's safe to go in with your cutlass. Use the "bull
+tactic" outlined above to finish him off, and do your best to avoid the two-handed sword. 
+
+-Sniper Pirate vs. Heavy Knight-
+What this all comes down to is how well you can aim the musket. The Heavy Knight is really slow,
+so if you're at least PARTIALLY competent with the sniper musket, then you really shouldn't have
+all that much trouble hitting him with it. Make SURE you line up your shot - try to avoid shooting
+at him if he's moving perpendicular to the direction you're facing. This is because, if you DO miss,
+you're probably screwed unless you can escape. The flintlock is fairly strong, but it's not very
+reliable. Whatever you do, KEEP YOUR DISTANCE. Do as much damage as you can at range, and don't
+go in with your flintlock or dagger unless you absolutely have to. Watch out for his two-handed
+sword's secondary swing, it'll cream you in two blows easily.
+
+-Skirmish Pirate vs. Heavy Knight-
+This can get hard. What you need to do here is take advantage of your speed - between the Heavy
+Knight and Skirmish Pirate, there is a larger speed gap than there is between any other two 
+classes in the game. You can EASILY avoid his two-handed sword's primary swing, unless you walk
+into it or something. What you need to watch out for is the secondary swing. Keep JUST out of
+range of his swing, and peck at him with the flintlock. Once you've hit him twice or even
+just once, lunge at him (between his swings, obviously). If that doesn't kill him, circle him a
+few times and beat on him with the cutlass. The bull tactic also works nicely, but since the 
+Heavy Knight's swing is pretty easy to avoid, you don't really need to use it. 
+
+-Axe Viking vs. Heavy Knight-
+First off, use ALL your throwing axes on this guy. He can't dodge them with any reliability, and
+it's unlikely he'll bother trying to block a throwing axe with his shield. Hit him 2 to 4 times
+with a throwing axe, and he's easy pickings. Go in with your sword to finish him off easily. If
+you don't have the luxury of throwing axes, things are a bit more complicated. His two-handed
+sword is quite painful - and you're not really fast enough to dodge it well. I recommend waiting
+for him to use his primary swing, and then getting in with your big axe or sword and slapping him
+around a bit. Then, quickly back off before he can get a hit in. The primary swing of the big
+axe works wonders here, if you can manage to lure him into it.
+
+-Spear Viking vs. Heavy Knight-
+Spearmen are the Viking team's anti-Heavy Knight. The spear outranges the two-handed sword by a 
+fair margin, making it relatively easy to deal with them compared to other classes. Before you 
+go in, do as much damage with your javelins as you can. Heavy Knights are horrible at dodging
+projectiles, so toss one their way to soften them up before you take them on up close. If for
+some reason you miss, you can probably pick it back up and try again, anyway. After that, get in
+with your spear to finish him off. Remember to use your weapon's range to your advantage - you
+don't need to get REALLY close to him (and you shouldn't, that sword HURTS), just close enough to
+hit him.
+
+-Berserker vs. Heavy Knight-
+As a Berserker it's VERY hard to avoid the two-handed sword - especially its secondary swing. As
+such, a battle between a Heavy Knight and Berserker often results in nothing more than a "beat
+on each other until someone dies" affair. If you like the dual axes, this is pretty much your only
+strategy - get in his face and dent him in the head until he falls over. Avoiding secondary swings
+is pretty much too difficult to avoid, so don't even try. Primary swings, on the other hand, NEED
+to be avoided. You've got a lot of HP, but not THAT much. If you're a hammer person, strategy comes
+back into play. Get in his face between two-handed sword swings, whack him once, and then back off.
+Repeat a few more times to kill the knight easily and relatively safely.
+
+---------------------------------------------------------------------------------------------------
+BOWMAN
+
+Speed - Fast
+Max HP - 100
+Weapons - Bow & Arrow, Crossbow, Short Sword
+Offense/Defense - Offense
+
+--General Information--
+
+The fastest Knight class is the Bowman. He's armed with some of the best ranged weaponry in the 
+game - unfortunately, all of which takes substantial skill to use effectively. He's quite poor at
+melee fighting, and has low defense. As a bowman, you'll need to maintain distance between your
+target and yourself, because there's just no way you can hope to stand up to most other classes in
+melee combat. Remember that the Bowman is an offensive class, so you'll be leading the attack on
+enemy areas with ranged fire to soften up the defenses. In my opinion, the archer takes more skill
+to use well than any other class in the game. 
+
+AUTHOR'S NOTE
+By the way, I'll be quite honest here - I'm not a good bowman. I don't consider myself horrible, but 
+it is probably my worst class. If you're really serious about becoming a good bowman, I suggest
+visiting the forums at http://www.pvkmod.org and inquiring there. There are a number of folks there who
+know a lot more about being a good archer than I do, and can help you out more than I ever could. 
+
+GENERAL STRATEGIES
+
+* Anti-Magnet
+If you're at all familiar with basic science, you'll know that opposite magnets attract, and similar
+magnets repel. As a bowman, throw this knowledge out the window. That is to say, to you, opposites repel, 
+and similar attracts. By similar, I mean your teammates, and by opposite, I mean enemies. By staying
+near your teammates, you will be assured assistance if someone manages to get up close to you - 
+because let's face it, archers just aren't that good at melee fighting. Also, by keeping your friends
+close, you can assist them in dealing with ranged opponents that they are incapable of harming all
+by themselves. An archer and a heavy knight is one of the most lethal pairs in the game.
+
+* Bottleneck
+Unless you're a really good archer (and believe me, there aren't many out there), you'll probably find
+fighting in wide open areas quite difficult. With a large space for your target to bounce and dodge
+around in, it can be extremely tough to get a bead on your enemy. To minimize their maneuverability, 
+lure them into narrow areas. Hallways, ramps, tunnels, doorways, and bridges all work nicely. By taking 
+away their ability to strafe, you essentially cripple their defenses by making their path much more
+predictable. 
+
+* Physics 101
+Unlike the gunpowder weapons, both the crossbow and bow & arrow are not hitscan. This means that, in 
+order to hit anything, you HAVE to lead your shots. While with the marksman's musket you can shoot
+where the target is, you'll need to shoot where the target WILL BE with these two weapons. Determining
+where they'll be when the arrow reaches them is the hardest part, obviously. Especially if they happen 
+to be moving erratically. Also, the crossbow/bow & arrow are affected by gravity so you'll have to aim
+ABOVE the target if they're far away, rather than directly at them. If you don't, the arrow will fall
+helplessly at the target's feet. 
+
+WEAPON STRATEGIES
+
+BOW & ARROW
+Damage - Depends on how long the attack button has been held down. Low if the button is tapped,
+         Very High if it has been held down for 3 or 4 seconds.
+Maximum Ammunition - 25 arrows
+
+The bow, in my opinion, is the single hardest weapon to use in the entire game. Maybe it's just that
+I haven't practiced with it that much, but I miss things with this a lot more than I hit them. Like I
+said, this probably isn't the place to come if you're looking for expert advice on the bow. I can only
+provide you with what I know, which probably isn't that much. Remember that the bow is affected by 
+gravity, and isn't hitscan. You'll need to align your shots properly to hit anything. Also, you need
+to hold down the attack button to "charge" the arrow, much like the flail. When you release the attack
+button, the arrow will fly out and pluck anything it happens to hit. The longer you've held down attack,
+the farther the arrow will go, and the more damage it will do to anyone it connects with. 
+
+Unlike the flail, however, you will move at a reduced speed while "charging" the bow. Considerably 
+reduced. This means that you shouldn't begin charging the bow until you've seen someone to shoot it at,
+obviously. But when you DO see someone, you'll need to guesstimate how long you have to charge it for
+the arrow to hit home. All this aiming and predicting and guesstimating is what makes the bow hard to
+use, in my opinion. It can be quite difficult to get everything aligned right, especially when you've
+only got a few seconds to do it in.
+
+The bow is your primary weapon. Unless your crossbow is unloaded or someone is right up in your face,
+you should probably have the bow out. If someone DOES get in your face, you're in a bit of a pickle.
+Assuming the attacker is not nearly dead, your short sword probably won't be that effective. So, you'll
+have to use your bow. Now then, how can you use your bow, while still maintaining your distance to
+avoid melee attacks? The answer to this is jumping. 
+
+Jumping while shooting a bow is in itself ridiculous, but PVK isn't really aimed at realism, so this can 
+be ignored. If you see someone approaching you, turn around and high tail it. Then, begin stretching the 
+bow and at the same time, jump forward. While in midair, and while still holding down attack, do an about 
+face so that you can see your pursuer. When you think you've powered the bow up enough, let go and plunk 
+the arrow in their face. This entire process needs to be done in a little more than a second.
+
+If you're feeling tricky, you can pretty much use the aforementioned strategy to maintain your speed
+and distance for quite a while. By repeatedly bouncing forward while holding down attack, you will not 
+slow down very much, and still keep moving at about the same speed because of your air velocity. Many 
+people consider this a physics exploit (myself included), but there aren't any rules against it, so knock 
+yourself out. It's a very effective way of keeping your distance. 
+
+Aim for your opponent's chest. I can't stress this enough. If your opponent sees you, and isn't 
+completely inept, he'll probably try jumping around to become more difficult to hit. If you're trying
+for his chest, you'll at least hit his feet for some damage. Don't shoot for people's legs - always
+aim high. If you shoot at someone's legs, and they jump, then you'll miss them completely. This is not
+good. Every shot you miss gives them all the more opportunity to get in your face and eviscerate you.
+
+CROSSBOW
+Damage - Very High
+Maximum Ammuniton - 25 bolts 
+
+The crossbow is your most powerful weapon as an archer. It can fell practically any target in a single
+hit. It's also easier to use than the bow. So why would you ever want to use the bow instead of this?
+Well, obviously, there's the fact that the crossbow needs reloading after every shot. While reloading,
+you can't move, making you quite vulnerable. But really, unless it needs to be reloaded, I'm not sure
+why you wouldn't want to use the crossbow. 
+
+The main advantage that the crossbow has over the bow, besides the fact that it's stronger, is that
+you don't need to 'charge' shots like you do with the bow. Instead, you have to wait through a tedious
+reload process that takes 2 or 3 seconds. But after that, the crossbow is ready to go at a moment's
+notice, no priming of shots necessary. This makes the crossbow an excellent 'reflex' weapon, because
+you can fire off a shot that will do considerable damage at a moment's notice. Just aim it, and then
+fire. 
+
+As with all non-gunpowder ranged weapons, the crossbow isn't hitscan. And, yes, it's affected by
+gravity. Hooray! It's still easier to aim than the bow, though. If someone is right in your face,
+take out the crossbow and let it rip right into their gut. You don't even need to aim if they're REALLY
+close. Remember - reflex weapon. Remember that the best place to use the crossbow is in narrow areas,
+where you take away your target's ability to maneuver. Lure them into a doorway, turn around, and 
+give them some oak to eat when they come a-knockin'. With no places to sidestep to, there's not much
+an opponent can do to avoid your shot.
+
+Of course, luring them into thin halls isn't always an option. When you're dealing with someone out
+in the open, they will almost certainly be bouncing around and zig-zagging in an effort to avoid your
+shot. If this is the case, hitting them with the crossbow is quite difficult. And since it takes a
+while to reload, you probably won't get the chance to try with it again. Since you've got a backup
+weapon (bow), it's not as necessary to make every shot count as it is with the Man-at-Arms. But you'll
+still want to hit people as much as possible, obviously. To increase your chances of hitting someone
+who is actively dodging your aim, wait until they get close to you. When players get close to an archer,
+they often take on a false sense of security and forget about avoiding your fire. Once they've done
+this, let the arrow go to snap them back into reality. 
+
+Once again, reloading the crossbow is a slow and arduous journey. You're completely immobile while
+reloading it, so it's essential that you find a good place to hide and reload. Any area that isn't
+frequently traveled will do - dark corners, nooks, rooms that are off the beaten path. Of course, you
+can reload right where you are if you don't see anyone around. If someone does discover you, be sure
+to switch weapons and beat feet to safer havens. Be especially wary of snipers, because one shot from
+their musket can easily turn you into a red smear on the grass.   
+
+SHORT SWORD 
+Damage - Low
+Maximum Ammuniton - No ammo needed
+
+The short sword is the bowman's only melee weapon. This alone makes it invaluable to him. It's fast,
+but pretty weak. Don't bother trying to use this on healthy folk, because it just isn't strong enough
+to take them down quick. In the (unlikely) event that you find yourself with absolutely no arrows
+or bolts, the short sword will be the only weapon you have to defend yourself with. So it's a good idea
+to learn how to make the best of its poor power, because it's a very important tool.
+
+The short sword works best when paired with another weapon - probably the bow. After you've landed
+a shot with the bow, your opponent probably isn't completely dead - although he's likely quite damaged
+from it. Instead of trying to land another shot, unsheath your trusty sword and clock the straggler a 
+few times to finish him off. This is MUCH easier, faster, and less risky than attempting to hit them 
+again with your bow (at least, if you're not some kind of archery god). Remember - the sword is weak,
+but reliable.
+
+That having been said, is there any other times you should use the short sword? Yes. While using the
+short sword against a foe with full health is usually suicide, there are cases where you don't have
+many other options. The short sword is actually a fairly useful weapon against Pirates. It will only
+take about 4 blows to kill a pirate with full health. Since pirates are fast, they can easily get in
+your face, and it's not very easy to keep your distance to use your bow. In this case, it's a good idea
+to take out the sword and challenge the attacker to a sword duel, rather than taking your chances with
+arrows. 
+
+The most important thing to do when you're taking on someone with the short sword is to use your relatively
+high speed to your advantage. Slower foes, such as Axe Vikings and Berserkers can't keep up with you under
+normal circumstances. You can effectively make circles around the target, beating them in with your sword.
+He'll have trouble hitting you, especially if you crouch or reverse directions unexpectedly. Unpredictability
+is one of your best tools when you use this weapon, or any other weapons like it (cutlass). 
+
+HOW TO DEAL WITH BOWMEN
+
+-Pirate Captain vs. Bowman-
+This is just an exercise of "how unpredictable can you be". Bounce, jump, zig-zag, and strafe to make 
+youself as hard to hit as you humanly can. The bows are pretty hard to aim, so unless you're dealing 
+with someone who's REALLY good (and there are a few out there), they won't be able to draw a bead on
+you. Get into blunderbust range and blow the guy a new airhole with it. If that doesn't kill him (even
+though it should), take out your parrot and let Polly finish the job. On that note, parrots are VERY
+helpful against bowmen. By sending your parrot out, you essentially force him to switch to the short 
+sword to whack it, leaving him open to assault while he's distracted. If the battle isn't leaning in 
+your favor, send out your parrot, then take out the cutlass and assist it in pecking away at the
+Bowman's health.
+
+-Sniper Pirate vs. Bowman-
+Hitting bowmen with the musket isn't really that hard. Since they move very slowly when aiming the regular
+bow or crossbow, they're basically sitting ducks. One musket shot WILL kill a bowman, so that's really all
+you should need. If a bowman fires a shot at you while you're aiming or reloading, quickly switch weapons
+to move out of the way. If your musket is unloaded and you find yourself facing an archer, take out your
+flintlock and hit him once. Then you can get in with your dagger and open him up like an envelope. 
+
+-Skirmish Pirate vs. Bowman-
+Once again, put your dodging skills to use. You're the fastest class in the game, making it relatively
+easy to avoid arrow fire. Jump and move around unpredictably to avoid hi shots, then get in close and
+beat him to a pulp with your cutlass. Don't even bother with the flintlock here, he's not really worth
+it. Whatever you do, DON'T LUNGE. Lunging makes your path very easy to predict, and that's the last
+thing you want when dealing with a bowman. Instead, get in close and then pound the crud out of him
+with your regular cutlass swing.
+
+-Axe Viking vs. Bowman-
+You're probably the easiest class to hit for a bowman. Don't even bother trying to dodge his shot by
+jumping or moving around - instead, take out your shield and crouch. Slowly advance towards him while
+crouching - he won't be able to touch you. This will force him to try and get close to you with his
+sword to circumvent your shield. At this point you can use your own sword (I don't recommend the big
+axe here, it's too slow) to retaliate and knock him back. If he takes out his bow again, go back into
+phalanx mode and resume the gradual advance tactic. The throwing axes are helpful at range, but you
+make an easy target for a bowman who knows what he's doing while using them.
+
+-Spear Viking vs. Bowman-
+This isn't too tough. Once again, you're fairly easy to hit if the bowman knows what he's doing.
+You can try dodging if you want, but I still recommend using the aforementioned turtle tactic to
+block his fire and get in close. If that's not your style, you'll need another way to get in close.
+If you're going to throw a javelin at him, try to avoid running directly at him with it - it's 
+tempting to do this, but it makes you really easy to hit. Instead, just throw the javelin in his
+general direction. You might miss, but if he's smart he'll drop what he's doing and move anyway, just
+in case. Once in close, use your spear to finish him off - two or three pokes will do it if he's at 
+full health.
+
+-Berserker vs. Bowman-
+Your slow speed makes it VERY hard to dodge his shots. If there's anyone else in the area, I 
+recommend berserking to get in his face quick and finish him off with the dual axes. Then you can
+use the rest of the berserk to escape the area, or take on the rest of the foes. If he's all alone,
+it's not really worth berserking. Since you have no ranged weapons, any smart bowman will try to
+keep his distance from you at all costs - you won't be able to touch him, that way. What you need 
+to do is chase him into an obstacle - walls work nicely - and then get a few hits in on him. You'll
+never be able to actually catch him without berserking, so getting him caught on stuff is the
+easiest way to get in swinging range. Also, remember that when he's priming his bow, his speed is
+greatly reduced. Try to get up close while he's doing this to get a few hits in.

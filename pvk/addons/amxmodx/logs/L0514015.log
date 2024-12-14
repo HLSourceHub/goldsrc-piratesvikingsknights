@@ -1,0 +1,4 @@
+AMX Mod X log file started (file "addons/amxmodx/logs/L0514015.log") (version "1.8.3-dev+5116")
+L 05/14/2018 - 11:58:40: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 05/14/2018 - 11:58:40: [HAMSANDWICH] Error: pev and base not set for section "pvk windows", cannot register natives.
+L 05/14/2018 - 11:58:41: Log file closed.

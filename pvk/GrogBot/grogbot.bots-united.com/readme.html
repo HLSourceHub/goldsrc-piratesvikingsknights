@@ -1,0 +1,263 @@
+<DOCTYPE HTML PUBLIC -//W3C//DTD HTML 4.0 Transitional//EN>
+<html>
+<head>
+
+<meta name="description" content="GrogBot - A bot for Pirates, Vikings and Knights">
+<meta name="Author" content="Akz">
+<meta name="keywords" content="grogbot, pvk, hl, pirates vikings and knights, pvk bot, pvkbot, grogbot, bot, half-life>
+<meta HTTP-EQUIV="Content-Type CONTENT="text/html; CHARSET=ISO-8859-1">
+
+<title>GrogBot - A bot for Pirates, Vikings and Knights</title>
+<style type="text/css">
+  <!--
+  a:link { text-decoration: none; font-family: verdana; font-size: 11px; font-weight: bold; text-align: center; color: #FFFFFF; }
+  a:active { text-decoration: none; font-family: verdana; font-size: 11px; font-weight: bold; text-align: center; color: #FFFFFF; }
+  a:visited { text-decoration: none; font-family: verdana; font-size: 11px; font-weight: bold; text-align: center; color: #FFFFFF; }
+  a:hover { text-decoration: none; font-family: verdana; font-size: 11px; font-weight: bold; text-align: center; color: Gold; }
+  
+  a:link img { border: 0px; } 
+  a:active img { border: 0px; } 
+  a:visited img { border: 0px; } 
+
+  body { background-image: url(bark.jpg); }
+  p { font-family: verdana; font-size: 11px; color: #FFFFFF; font-weight: normal; text-align: left; }
+  pre { font-family: verdana; font-size: 11px; color: #FFFFFF; font-weight: normal; text-align: left; }
+  p.center { font-family: verdana; font-size: 11px; color: #FFFFFF; font-weight: bold; text-align: center; }
+  p.small { font-family: verdana; font-size: 9px; color: #FFFFFF; text-align: center; font-weight: normal; }
+  -->
+</style>
+</head>
+<body>
+<table WIDTH=70% CELLSPACING=2 CELLPADDING=0 ALIGN=Center BGCOLOR=#717171 height=90%>
+  <tr BGCOLOR=#000000>
+    <th HEIGHT=50 COLSPAN=2>
+      <center><img SRC=grogbot.jpg ALT=GrogBot></center>
+    </th>
+   </tr>
+  <tr>
+    <th HEIGHT=1 COLSPAN=2>
+      <font color=#FFFFFF style="font-weight: bold"><center><a href=index.html>News</a>  ::  <a href=files.html>Files</a>  ::  <a href=readme.html>Readme</a>  ::  <a href=screenshots.html>Screenshots</a> :: <a href=waypointing.html>Waypointing</a> :: <a href=http://forums.bots-united.com/forumdisplay.php?f=54>Forum</a></center>
+
+    </th>
+  </tr>
+<tr>
+<th BGCOLOR=#000000 VALIGN=top>
+<br>
+<center>
+<table bgcolor=#454545 Width=95%>
+<tr>
+<td>
+<pre>
+GrogBot ReadMe file
+</td>
+</tr>
+<tr>
+<td bgcolor=#606060>
+<pre>
+-------------------------------------------------------
+GrogBot - A bot for Pirates, Vikings and Knights HL Mod
+Version 1.1
+By Akz (akz@bots-united.com)
+http://grogbot.bots-united.com
+-------------------------------------------------------
+
+1. Installation
+2. Using
+3. Commands
+4. Waypointing
+5. Credits
+
+
+---------------
+1. Installation
+---------------
+
+WITHOUT METAMOD
+
+Extract the archive to your PVK folder. For example:
+C:\Steam\SteamApps\blah@yadayada.com\half-life\pvk
+
+Go to the newly created GrogBot folder (it's located in pvk\GrogBot)
+and run install.bat
+
+WITH METAMOD
+
+I'm assuming you have already installed MetaMod, if you haven't, get it 
+from: 
+http://www.metamod.org/
+
+Extract the archive to your PVK folder. For example:
+C:\Steam\SteamApps\blah@yadayada.com\half-life\pvk
+
+Go to your MetaMod folder (it's usually in pvk\addons\metamod), open the
+file called plugins.ini and add a new line to the end of the file:
+win32 GrogBot/grogbot_mm.dll
+
+--------
+2. Using
+--------
+
+There is a menu for adding/removing bots, which is bound to your H key
+by default. The binding can be changed/removed in the grogbot.cfg file.
+
+However, there's a console command too. The syntax is the following:
+
+addbot [team] [class] [name] [skill]
+
+All of the parameters are optional.
+
+-----------
+3. Commands
+-----------
+
+NOTE: A lot of commands are missing from this list, but the major
+ones should be there.
+
+melee_mode [on/off]
+Melee weapons only.
+
+grogbot_menu
+Brings up the GrogBot menu.
+
+grogbot_commandmenu
+Brings up the menu used for commanding the bots.
+
+addbot [team] [class] [name] [skill]
+Adds a bot. Parameters are self-explanatory.
+
+min_skill [1-100]
+Changes the minimum bot skill.
+
+max_skill [1-100]
+Changes the maximum bot skill.
+
+observer [on/off]
+Makes all of the bots ignore you. May be useful when editing waypoints.
+
+botdontshoot [on/off]
+Disables combat completely. May also be useful when editing waypoints.
+
+bot_forceteamplay [1/0]
+If set to 1, bots will try to stick with their teammates.
+
+--------------
+4. Waypointing
+--------------
+
+These are the commands used for waypointing. Check out my site
+for a complete waypointing tutorial.
+
+waypoint on
+waypoint off
+waypoint add
+waypoint delete
+
+waypoint save
+waypoint load
+
+waypoint wait
+waypoint wait [minimum time] [maximum time]
+
+
+waypoint radius
+waypoint radius [new radius]
+
+waypoint addflag
+
+autowaypoint on
+autowaypoint off
+
+pathwaypoint on
+pathwaypoint off
+
+pathwaypoint enable
+pathwaypoint disable
+
+pathwaypoint start
+pathwaypoint end
+
+pathwaypoint rem_start
+pathwaypoint rem_end
+
+----------
+5. Credits
+----------
+
+Jeffrey "botman" Broome:
+For the great HPB bot. Without him, many of the now existing bots
+wouldn't exist, including GrogBot.
+
+AzShadow:
+For names, chat sentences and testing.
+
+The PVK Team:
+For making the one and only mod, which I've played for years without
+getting bored.
+</pre>
+</td>
+</tr>
+<tr>
+<td>
+<pre>
+Akz
+</td>
+</tr>
+</table>
+<br>
+
+</td>
+
+</center>
+<td BGCOLOR="black" VALIGN="top" BORDER=0 Width=25%>
+<br>
+<table bgcolor=#454545 Width=85% align=center>
+
+<tr>
+<td height=1>
+<pre>
+  Support
+</td>
+</tr>
+<tr>
+<td bgcolor=#606060 valign=center height=60>
+<center>
+<a href=http://www.bots-united.com><img src=bu_button.gif></a>
+</center>
+</td>
+</tr>
+<tr>
+<td bgcolor=#454545 height=15>
+
+</td>
+</tr>
+</table>
+<br>
+<table bgcolor=#454545 Width=85% align=center>
+
+<tr>
+<td height=1>
+<pre>
+  Links
+</td>
+</tr>
+<tr>
+<td bgcolor=#606060 height=150 valign=center align=center>
+<a href=http://www.pvkmod.com><img src=grogad2.gif></a>
+</td>
+</tr>
+<tr>
+<td bgcolor=#454545 height=15>
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+</table>
+
+<p class="small">Best viewed at 1024x768<br>Copyright © Akz 2003-2004</p>
+
+</font>
+</body>
+
+</html>

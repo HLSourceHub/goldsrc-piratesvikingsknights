@@ -1,0 +1,1 @@
+hl.exe -game pvk -num_edicts 2048 -console

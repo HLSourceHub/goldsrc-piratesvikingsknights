@@ -1,0 +1,288 @@
+<DOCTYPE HTML PUBLIC -//W3C//DTD HTML 4.0 Transitional//EN>
+<html>
+<head>
+
+<meta name="description" content="GrogBot - A bot for Pirates, Vikings and Knights">
+<meta name="Author" content="Akz">
+<meta name="keywords" content="grogbot, pvk, hl, pirates vikings and knights, pvk bot, pvkbot, grogbot, bot, half-life>
+<meta HTTP-EQUIV="Content-Type CONTENT="text/html; CHARSET=ISO-8859-1">
+
+<title>GrogBot - A bot for Pirates, Vikings and Knights</title>
+<style type="text/css">
+  <!--
+  a:link { text-decoration: none; font-family: verdana; font-size: 11px; font-weight: bold; text-align: center; color: #FFFFFF; }
+  a:active { text-decoration: none; font-family: verdana; font-size: 11px; font-weight: bold; text-align: center; color: #FFFFFF; }
+  a:visited { text-decoration: none; font-family: verdana; font-size: 11px; font-weight: bold; text-align: center; color: #FFFFFF; }
+  a:hover { text-decoration: none; font-family: verdana; font-size: 11px; font-weight: bold; text-align: center; color: Gold; }
+  
+  a:link img { border: 0px; } 
+  a:active img { border: 0px; } 
+  a:visited img { border: 0px; } 
+
+  body { background-image: url(bark.jpg); }
+  p { font-family: verdana; font-size: 11px; color: #FFFFFF; font-weight: normal; text-align: left; }
+  pre { font-family: verdana; font-size: 11px; color: #FFFFFF; font-weight: normal; text-align: left; }
+  p.center { font-family: verdana; font-size: 11px; color: #FFFFFF; font-weight: bold; text-align: center; }
+  p.small { font-family: verdana; font-size: 9px; color: #FFFFFF; text-align: center; font-weight: normal; }
+  -->
+</style>
+</head>
+<body>
+<table WIDTH=70% CELLSPACING=2 CELLPADDING=0 ALIGN=Center BGCOLOR=#717171 height=90%>
+  <tr BGCOLOR=#000000>
+    <th HEIGHT=50 COLSPAN=2>
+      <center><img SRC=grogbot.jpg ALT=GrogBot></center>
+    </th>
+   </tr>
+  <tr>
+    <th HEIGHT=1 COLSPAN=2>
+      <font color=#FFFFFF style="font-weight: bold"><center><a href=index.html>News</a>  ::  <a href=files.html>Files</a>  ::  <a href=readme.html>Readme</a>  ::  <a href=screenshots.html>Screenshots</a> :: <a href=waypointing.html>Waypointing</a> :: <a href=http://forums.bots-united.com/forumdisplay.php?f=54>Forum</a></center>
+
+    </th>
+  </tr>
+<tr>
+<th BGCOLOR=#000000 VALIGN=top>
+<br>
+<center>
+<table bgcolor=#454545 Width=95%>
+<tr>
+<td>
+<pre>
+GrogBot Waypointing Tutorial
+</td>
+</tr>
+<tr>
+<td bgcolor=#606060>
+<pre>
+
+---
+GrogBot Waypointing Tutorial
+Written by Akz
+---
+
+1. What are waypoints for?
+--------------------------
+
+GrogBot is using waypoints to navigate through the map. Waypoint is a
+location in the map, which the bot will use when navigating. When 
+editing waypoints, you can see the waypoints drawn with a green
+beam. Some special waypoints (waypoints with flags) are displayed in
+other colors. Waypoints will be saved as a mapname.gwp to your GrogBot
+waypoints folder (GrogBot\waypoints) waypoint paths will be saved as
+mapname.gw1, mapname.gw2, mapname.gw3 and mapname.gw4. The number is 
+marking the team. The path files aren't necessary. They will be 
+calculated automatically when the waypoints get loaded if they are
+not present.
+
+2. Waypointing console commands
+-------------------------------
+
+Before we can start to do anything, you need to know these commands:
+
+waypoint on - show the waypoints (displays them with a colored beam)
+waypoint off - hide the waypoints
+waypoint add - add a waypoint
+waypoint delete - delete a waypoint
+
+waypoint radius - shows the waypoint's radius
+waypoint radius [new radius] - sets a new radius for this waypoint.
+
+waypoint wait [minimum time] [maximum time] - Sets a waiting time for 
+                                              the waypoint.
+
+waypoint addflag - add a special flag (Treasures etc.)
+
+autowaypoint on - automatically adds a waypoint when you walk
+autowaypoint off - disable autowaypointing
+
+pathwaypoint on - shows the waypoint paths
+pathwaypoint off - hides the waypoint paths
+
+pathwaypoint enable - enables automatic pathwaypointing (default = on)
+pathwaypoint disable - disables automatic pathwaypointing
+
+pathwaypoint start - start location for a new path
+pathwaypoint end - end location of the new path
+
+pathwaypoint rem_start - remove path start
+pathwaypoint rem_end - remove path end
+
+3. How do I make waypoints?
+---------------------------
+
+First of all, write these commands in your console:
+
+waypoint on
+pathwaypoint on
+
+Now you can see the waypoints and the paths which will be used
+to navigate in the map. Well, you don't see anything yet because
+we don't have any waypoints placed yet (if there isn't already a
+waypoint file for that map). Make two waypoints by writing
+"autowaypoint on" to the console. Walk around a bit. Now you can 
+see that a path is calculated between these waypoints. If the path 
+isn't good, you can remove it with "pathwaypoint rem_start" and
+"pathwaypoint rem_end". If you want to add a single waypoint, use
+"waypoint add". If you want to end waypointing, remember to use the
+"waypoint save" command. Now you know how to place waypoints, do you?
+Well, I think you do. Let's continue.
+
+4. Waiting times and radiuses
+-----------------------------
+You can set a "waiting time" to a waypoint using the "waypoint wait"
+command. When a waiting time is set, the bot will eh... wait on the
+waypoint for the specified time!
+
+The radiuses are used to set a radius. When the bot is inside that
+radius, it will pick a new waypoint to go to. A big radius usually 
+causes problems in narrow corridors and such. (Bots getting stuck 
+into wall and that sort of probs.)
+
+5. Waypoint flags
+-----------------
+Sometimes the bots have to pick up a chest, hold a territory, camp, jump 
+and so on. You can use a flag to get the bot do those things. We 
+can add a flag with "waypoint addflag" command.
+
+When using "waypoint addflag" command, you will see the following
+menu.
+
+1. Team Specific
+2. Door
+3. Camping spot
+4. Pirate Base
+5. Viking Base
+6. Knight Base
+7. Jump
+8. Rush Waypoint
+0. Next Page...
+
+The first one is to make only one team use the current waypoint.
+
+You can use the second one to make bots ignore the walls.
+
+The third one is to make bots camp on this waypoint (only for bowmen).
+
+The bots will drop treasure chests carried by them to their Base 
+waypoint. The bots will not pick up any chests near their own base.
+If a team has some chests in the beginning of the map, remember
+to put a Base waypoint on those chests. That way, the bots will
+not pick up their own chests and the other teams will try to get
+the chests. If you didn't understand, have a look at my waypoints
+for a treasure map (i.e. pvk_island)
+
+Jump waypoint is used to get the bot jump to somewhere.
+
+Rush waypoint is used to get the bot to "rush", the bot doesn't
+care so much about enemies if it's on a rush waypoint.
+
+Let's have a look at the next page.
+
+1. Important Wpt
+2. Breakable Wpt
+3. Pillage Wpt
+4. "Use Only If Visible"
+5. UOIV Waitpoint
+6. Button Wpt
+7. Advanced Breakable
+0. Cancel
+
+1. Important Waypoint is used in other than treasure maps. (i.e.
+territory hold.) The bots will simplytry to get to this waypoint.
+When they reach the waypoint, they will pick a new important
+waypoint. In territory hold maps, you should place a important
+waypoint to the territory area, then add some waiting time and
+that's it.
+
+2. Breakable waypoint is used to get the bots to destroy breakable
+entities near it.
+
+3. Pillage waypoint is used like the breakable waypoint in pillage
+gametype maps, where you need to destroy the func_pillageable
+entities to get scored.
+
+4. "Use Only If Visible" (UOIV) waypoint is used to get the bot to
+wait until it's possible to get to this waypoint. You need to use
+the UOIV Waitpoint in combination with this to get it to work.
+Check out pvk_colossus to see an example.
+
+5. Check out the "Use Only If Visible" waypoint description above.
+
+6. The bot will try to use the button near this waypoint.
+
+7. The bots will only destroy the breakables if they are blocking
+the way to this waypoint. The "Advanced" breakable waypoint needs 
+to be in the place where the bot is trying to go (behind the breakable).
+
+If you find any spelling mistakes or you feel that something is
+missing, contact me at:
+
+akz@bots-united.com
+</pre>
+</td>
+</tr>
+<tr>
+<td>
+<pre>
+Akz
+</td>
+</tr>
+</table>
+<br>
+
+</td>
+
+</center>
+<td BGCOLOR="black" VALIGN="top" BORDER=0 Width=25%>
+<br>
+<table bgcolor=#454545 Width=85% align=center>
+
+<tr>
+<td height=1>
+<pre>
+  Support
+</td>
+</tr>
+<tr>
+<td bgcolor=#606060 valign=center height=60>
+<center>
+<a href=http://www.bots-united.com><img src=bu_button.gif></a>
+</center>
+</td>
+</tr>
+<tr>
+<td bgcolor=#454545 height=15>
+
+</td>
+</tr>
+</table>
+<br>
+<table bgcolor=#454545 Width=85% align=center>
+
+<tr>
+<td height=1>
+<pre>
+  Links
+</td>
+</tr>
+<tr>
+<td bgcolor=#606060 height=150 valign=center align=center>
+<a href=http://www.pvkmod.com><img src=grogad2.gif></a>
+</td>
+</tr>
+<tr>
+<td bgcolor=#454545 height=15>
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+</table>
+
+<p class="small">Best viewed at 1024x768<br>Copyright © Akz 2003-2004</p>
+
+</font>
+</body>
+
+</html>

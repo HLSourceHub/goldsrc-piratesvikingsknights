@@ -1,0 +1,13 @@
+Darker crosshairs for PVK
+
+By Meat Of Champions
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ok I made these new crosshairs for you guys that were complaining on the forums about the originals being to light(and they are).  These are the same shapes but with reds instead of yellows.  Much easier to use against a light background, and they still work in the dark.
+
+Extract crosshairs.spr to your /half-life/pvk/sprites/ directory.
+
+You might want to backup the old crosshairs.spr in case you hate these.
+
+7/11/02

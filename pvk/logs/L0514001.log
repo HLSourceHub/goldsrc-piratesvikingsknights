@@ -1,0 +1,96 @@
+L 05/14/2018 - 12:50:14: Log file started (file "logs\L0514001.log") (game "pvk") (version "48/1.1.2.2/Stdio/7561")
+L 05/14/2018 - 12:50:14: Loading map "PVK_SELUNE"
+L 05/14/2018 - 12:50:14: Server cvars start
+L 05/14/2018 - 12:50:14: Server cvar "allow_spectators" = "1.0"
+L 05/14/2018 - 12:50:14: Server cvar "amx_client_languages" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "amx_language" = "en"
+L 05/14/2018 - 12:50:14: Server cvar "amxmodx_version" = ""
+L 05/14/2018 - 12:50:14: Server cvar "coop" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "deathmatch" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "decalfrequency" = "30"
+L 05/14/2018 - 12:50:14: Server cvar "edgefriction" = "2"
+L 05/14/2018 - 12:50:14: Server cvar "max_queries_sec" = "3.0"
+L 05/14/2018 - 12:50:14: Server cvar "max_queries_sec_global" = "30"
+L 05/14/2018 - 12:50:14: Server cvar "max_queries_window" = "60"
+L 05/14/2018 - 12:50:14: Server cvar "metamod_version" = "1.20"
+L 05/14/2018 - 12:50:14: Server cvar "mp_allowmonsters" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_autocrosshair" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "mp_brawl" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_consistency" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "mp_falldamage" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_flashlight" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_footsteps" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "mp_forcerespawn" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "mp_fraglimit" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_fragsleft" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_friendlyfire" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_gibfactor" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "mp_gibshower" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_knights" = "20"
+L 05/14/2018 - 12:50:14: Server cvar "mp_logfile" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "mp_pirates" = "20"
+L 05/14/2018 - 12:50:14: Server cvar "mp_roundtime" = "5"
+L 05/14/2018 - 12:50:14: Server cvar "mp_teamlist" = "hgrunt;scientist"
+L 05/14/2018 - 12:50:14: Server cvar "mp_teamplay" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_timeleft" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_timelimit" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_vikings" = "20"
+L 05/14/2018 - 12:50:14: Server cvar "mp_weaponstay" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "pausable" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "sv_accelerate" = "10"
+L 05/14/2018 - 12:50:14: Server cvar "sv_aim" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "sv_airaccelerate" = "10"
+L 05/14/2018 - 12:50:14: Server cvar "sv_allowupload" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "sv_bounce" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "sv_cheats" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "sv_clienttrace" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "sv_contact" = ""
+L 05/14/2018 - 12:50:14: Server cvar "sv_friction" = "4"
+L 05/14/2018 - 12:50:14: Server cvar "sv_gravity" = "800"
+L 05/14/2018 - 12:50:14: Server cvar "sv_logblocks" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "sv_maxrate" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "sv_maxspeed" = "320"
+L 05/14/2018 - 12:50:14: Server cvar "sv_minrate" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "sv_password" = ""
+L 05/14/2018 - 12:50:14: Server cvar "sv_proxies" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "sv_stepsize" = "18"
+L 05/14/2018 - 12:50:14: Server cvar "sv_stopspeed" = "100"
+L 05/14/2018 - 12:50:14: Server cvar "sv_uploadmax" = "0.5"
+L 05/14/2018 - 12:50:14: Server cvar "sv_voiceenable" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "sv_wateraccelerate" = "10"
+L 05/14/2018 - 12:50:14: Server cvar "sv_waterfriction" = "1"
+L 05/14/2018 - 12:50:14: Server cvars end
+L 05/14/2018 - 12:50:14: Server cvar "amxmodx_version" = "1.8.3-dev+5116"
+L 05/14/2018 - 12:50:14: Server cvar "mp_fraglimit" = "0.000000"
+L 05/14/2018 - 12:50:14: Server cvar "mp_timelimit" = "0.000000"
+L 05/14/2018 - 12:50:14: Server cvar "mp_falldamage" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "mp_teamplay" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "mp_flashlight" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "mp_teamlist" = ""
+L 05/14/2018 - 12:50:14: Server cvar "mp_falldamage" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_forcerespawn" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_flashlight" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "mp_autocrosshair" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "amx_nextmap" = "PVK_SELUNE"
+L 05/14/2018 - 12:50:14: Started map "PVK_SELUNE" (CRC "1248739990")
+L 05/14/2018 - 12:50:14: Server cvar "mp_teamplay" = "1301"
+L 05/14/2018 - 12:50:14: Server cvar "mp_falldamage" = "1"
+L 05/14/2018 - 12:50:14: Server cvar "mp_timelimit" = "45"
+L 05/14/2018 - 12:50:14: Server cvar "pausable" = "0"
+L 05/14/2018 - 12:50:14: Server cvar "sv_maxrate" = "5000"
+L 05/14/2018 - 12:50:14: Server cvar "allow_spectators" = "0"
+L 05/14/2018 - 12:50:14: "loKkdoKk<1><STEAM_0:0:30952510><>" connected, address "loopback"
+L 05/14/2018 - 12:50:15: "loKkdoKk<1>" has entered the game
+L 05/14/2018 - 12:50:15: "loKkdoKk<1>" has entered the game
+L 05/14/2018 - 12:50:17: "loKkdoKk<1>" has joined Pirates
+L 05/14/2018 - 12:51:20: [META] ini: Begin re-reading plugins list: e:/steam/steamapps/common/half-life/pvk/addons/metamod/plugins.ini
+L 05/14/2018 - 12:51:20: [META] ini: Read plugin config for: PVK BugFixer
+L 05/14/2018 - 12:51:20: [META] ini: Read plugin config for: GrogBot
+L 05/14/2018 - 12:51:20: [META] ini: Read plugin config for: AMX Mod X
+L 05/14/2018 - 12:51:20: [META] ini: Read plugin config for: dproto_EF
+L 05/14/2018 - 12:51:20: [META] ini: Finished reading plugins list: e:/steam/steamapps/common/half-life/pvk/addons/metamod/plugins.ini; Found 4 plugins
+L 05/14/2018 - 12:51:20: [META] dll: Updating plugins...
+L 05/14/2018 - 12:51:20: [META] dll: Finished updating 9 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 05/14/2018 - 12:51:20: "loKkdoKk<-1>" disconnected
+L 05/14/2018 - 12:51:20: Server shutdown
+L 05/14/2018 - 12:51:20: Log file closed

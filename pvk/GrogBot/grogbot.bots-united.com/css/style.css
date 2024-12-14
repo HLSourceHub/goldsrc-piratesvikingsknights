@@ -1,0 +1,7 @@
+.text { font-family: Arial, Helvetica; font-size: 12; color: #000000 }
+.menu { font-family: Arial, Helvetica; font-size: 12; color: #FFFFFF; font-weight: bold }
+.menulink { color: #FFFFFF; text-decoration: none }
+.link { color: #000000; text-decoration: none }
+.header { font-family: Arial, Helvetica; font-size: 22; color: #000000 }
+.newsheader { font-family: Arial, Helvetica; font-size: 12; color: #000000; font-weight: bold }
+.filelink { text-decoration: none }

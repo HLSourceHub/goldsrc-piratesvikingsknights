@@ -1,0 +1,7 @@
+//harbor
+
+viking_barricade_down
+{
+The Viking Barricade has been destroyed!
+It will be rebuilt in 3 minutes.
+}

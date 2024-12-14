@@ -1,0 +1,292 @@
+team_list
+{
+=== Choose Your Team ===
+
+1. Pirates
+2. Vikings
+3. Knights
+
+}
+
+team_list_no_pirates
+{
+=== Choose Your Team ===
+
+-- Pirates
+2. Vikings
+3. Knights
+}
+
+team_list_no_vikings
+{
+=== Choose Your Team ===
+
+1. Pirates
+-- Vikings
+3. Knights
+}
+
+team_list_no_knights
+{
+=== Choose Your Team ===
+
+1. Pirates
+2. Vikings
+-- Knights
+}
+
+
+pirate_classes
+{
+What kind of pirate do you want to be?
+
+1. Skirmish Pirate
+2. Sniper Pirate
+3. Pirate Captain
+}
+
+viking_classes
+{
+What kind of Viking do you want to be?
+
+1. Axe Viking
+2. Berserker Viking
+3. Spear Viking
+}
+
+knight_classes
+{
+What kind of knight do you want to be?
+
+1. Man-at-arms
+2. Heavy knight
+3. Bowman
+}
+
+change_team_list
+{
+=== Choose Your Team ===
+
+1. Pirates
+2. Vikings
+3. Knights
+
+0. Cancel
+}
+
+change_team_list_no_pirates
+{
+=== Choose Your Team ===
+
+-- Pirates
+2. Vikings
+3. Knights
+
+0. Cancel
+}
+
+change_team_list_no_vikings
+{
+=== Choose Your Team ===
+
+1. Pirates
+-- Vikings
+3. Knights
+
+0. Cancel
+}
+
+change_team_list_no_knights
+{
+=== Choose Your Team ===
+
+1. Pirates
+2. Vikings
+-- Knights
+
+0. Cancel
+}
+
+
+change_pirate_classes
+{
+What kind of pirate do you want to be?
+
+1. Skirmish Pirate
+2. Sniper Pirate
+3. Pirate Captain
+
+0. Cancel
+}
+
+change_viking_classes
+{
+What kind of Viking do you want to be?
+
+1. Axe Viking
+2. Berserker Viking
+3. Spear Viking
+
+0. Cancel
+}
+
+change_knight_classes
+{
+What kind of knight do you want to be?
+
+1. Man-at-arms
+2. Heavy knight
+3. Bowman
+
+0. Cancel
+}
+
+Pirates
+{
+Pirates
+}
+
+Vikings
+{
+Vikings
+}
+
+Knights
+{
+Knights
+}
+
+Title_SelectYourTeam
+{
+Choose Your Team
+}
+
+Title_SelectYourClassP
+{
+What type of pirate do you want to be?
+}
+
+Team_AutoAssign
+{
+Auto Assign
+}
+
+Title_skirmisher
+{
+Skirmisher Pirate
+}
+
+Title_sniper
+{
+Sniper Pirate
+}
+
+Title_captain
+{
+Pirate Captain
+}
+
+Title_axe
+{
+Axe Viking
+}
+
+Title_berserker
+{
+Berserker Viking
+}
+
+Title_spear
+{
+Spear Viking
+}
+
+Title_man_at_arms
+{
+Man-at-arms
+}
+
+Title_heavy
+{
+Heavy Knight
+}
+
+Title_bowman
+{
+Bowman
+}
+
+Title_CurrentlyOnYourTeam
+{
+There are %d on your team
+}
+
+Tofu
+{
+Tofu
+}
+
+Skirmisher
+{
+Skirmisher
+}
+
+Sniper
+{
+Sniper
+}
+
+Captain
+{
+Captain
+}
+
+Menu_OK
+{
+Okay
+}
+
+PLAYERS
+{
+Players
+}
+
+SCORE
+{
+Score
+}
+
+DEATHS
+{
+Deaths
+}
+
+LATENCY
+{
+Latency
+}
+
+UNASSIGNED
+{
+Tofu
+}
+
+Spec_Mode3
+{
+Roaming Chase Cam
+}
+
+Spec_Mode1
+{
+Locked Chase Cam
+}
+
+Spec_Mode2
+{
+Freelook Chase Cam
+}
+
+Spec_NoTarget
+{
+No target
+}

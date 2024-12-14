@@ -1,0 +1,68 @@
+botman's BSP tools
+
+07/09/2002 - Release 1.0
+-Fixed bug causing "Can't find Half-Life\valve directory!" error message
+ (thanks Mark!)
+
+
+05/20/2002 - Release BETA 0.4
+-Fixed key/value max size error "Token too large on line 1" by increasing
+ value to 4096 bytes.
+-Modified entity search routines to work more generically (fixes problems
+ when "classname" does not appear as first key in entities).
+-BSP_view now uses resizable Windows OpenFile dialog boxes.
+
+
+01/28/2002 - Release BETA 0.3b
+
+Stuff changed in bsp_tool:
+-Fixed a bug in the automatic waypoint generator causing it to not place
+ waypoints for anything EXCEPT lava locations.
+
+Stuff changed in bsp_view:
+-Modified Traceline function to better detect which surface a traceline hit.
+
+
+01/07/2002 - Release BETA 0.3a
+
+Stuff changed in all tools:
+-Fixed a bug causing crashes if there were more than 20 MODs installed.
+
+
+01/02/2002 - Release BETA 0.3
+
+Stuff changed in bsp_view:
+-Fixed unused miptex (texture) causing a crash (dmc_dm4.bsp now works).
+-Replaced Win3.1 OpenFile dialog with Win95/98 Explorer OpenFile dialog box.
+-Added "texture" command ('T') to display name of texture.
+-Studio Models outside the field of view (FOV) are not rendered.
+
+Stuff changed in bsp_tool:
+-Prevent automatic waypoints from being placed in lava (for DMC)
+
+Stuff changed in bsp_slicer:
+(Nothing)
+
+
+11/22/2001 - Release BETA 0.2
+
+Stuff changed in bsp_view:
+-Fixed many bugs with the skybox textures:
+ (skyboxes are drawn right-side-up now.)
+ (skyboxes don't show the seam at the edges anymore.)
+ (skyboxes are drawn in the same front/back/left/right order as in Half-Life.)
+-Replaced $mapdir and $pakdir with $halflife_dir .cfg file item.
+ (MOD will be automatically determined based on where the BSP file is found.)
+-Added $models item to .cfg file to allow studio models to be rendered.
+ (The user can replace the models/filename.mdl with whatever model they wish.)
+-Added the $movement_speed and $mouse_sensitivity items to .cfg file.
+-Added the ability to show the edges of textures ($show_edges in .cfg file).
+-Movement speed is based on frame rate for a more constant speed.
+-Modified the TraceLine display to show the start and end (with line between).
+-Brush models with renderamt specified will be rendered correctly now.
+ (This is mostly used for glass and other transparent brush entities).
+
+Stuff changed in bsp_tool:
+(Nothing)
+
+Created new BSP tool called bsp_slicer.

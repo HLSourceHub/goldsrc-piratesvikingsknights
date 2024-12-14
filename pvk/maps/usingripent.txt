@@ -1,0 +1,24 @@
+*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*
+
+To use ripent, simply create a shortcut on your 
+desktop to the exe.
+
+Next, right click on the shortcut icon, 
+and in the path field add a -export mapname.
+
+Run the shortcut, and ripent will create the 
+entity file in the maps folder of the map 
+that map.
+
+Edit the .ent file in notepad, then save it.
+
+Change -export in the shortcut to -import.
+
+Run the shortcut, and the map will be updated.
+
+Ripent cannot be used to modify brushwork, 
+only entity properties. You can add point-based 
+entities, as long as you know the x y z coordinates 
+of where you want them added.
+
+*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*/\*

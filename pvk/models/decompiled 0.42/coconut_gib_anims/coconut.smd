@@ -1,0 +1,9 @@
+// Created by Crowbar 0.42.0.0
+version 1
+nodes
+  0 "Object14" -1
+end
+skeleton
+  time 0
+    0 0.221142 0.255949 0.692702 0.000000 0.000000 1.570796
+end

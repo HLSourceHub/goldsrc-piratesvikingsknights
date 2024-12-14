@@ -1,0 +1,7 @@
+6
+weapon			320	320hud_weapons	0	160	80	20
+weapon_s		320	320hud_weapons	80	160	80	20
+crosshair		320 	crosshairs	0	0	1	1
+weapon			640	640hud_weaps11	0	0	170	45
+weapon_s		640	640hud_weaps11	0	46	170	45
+crosshair		640 	crosshairs	0	0	1	1

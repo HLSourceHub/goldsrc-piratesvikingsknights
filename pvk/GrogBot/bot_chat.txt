@@ -1,0 +1,168 @@
+[bot_chat]
+YARR MATEYS!!!
+What's going on?
+Any keggers on this server?
+Why are you guys so quiet?
+Did you know that %r is my little brother.
+Hey! Let's train some kegjumping?
+Let's change map? %m sucks.
+%m rules!
+Lol, %r sucks.
+I need a clan!
+i'm n00b :(
+:/
+C'mon, let's pwn!!!
+Oh yeaaaaah!
+where are you %r?
+![CF] playing here?
+![CF] guys are pretty good...
+You just suck :P
+I rule!
+%r, I'll kill you...
+PVK really needs more servers...
+Any bots on this server?
+I think they're all camping.
+Is PVK dying?
+I'm getting tired.
+Let's play CS!
+PVK rules forevah!
+Please SHUT UP! I'm trying to play!
+Don't be so lame, %r.
+Let's kill 'em all, %t!
+Those damn sniper pirates are freakin' me out!
+laggg
+Where's everybody?
+It's a good day to die.
+Is PVK2 out already?
+Let's have some action.
+What happened?
+Anybody alive?
+Do you see me %r?
+Let's have a party tonight?
+C'mon, some teamplay plz!
+I need a clan...
+There is no spoon.
+BADGER BADGER BADGER BADGER...
+MUSHROOM MUSHROOM
+Any clans available?
+Anyone from Finland?
+you should learn to write...
+laggy day isn't it, %r?
+Let's rush 'em all!
+I'm the best tbh...
+Are they camping, %t?
+Come with me, %t.
+Hey %r, where do u live?
+
+[bot_taunt]
+Owned you again %n.
+YARR!!! I GOT YE %n!
+Ahahh, want to die again %n?
+Lol, just killed %n.
+Why do we have a noob like %n on this server?
+lol
+:D
+hehe
+geez
+yeaah
+at least
+I got a frag!!!
+Hey! This is fun!
+Who's the man???
+Wow, I killed %n!
+No one can beat me!
+LOL! Did you see that!
+Lol %n, didn't you even see me???
+%n, get some skillz be4 playin' this game :/
+haha n00b
+too easy
+Am I too good, %n?
+0wn3d u, %n!
+pwned %n :P
+Hahah, pwned u %n!
+!LOL! %n, U SUCK!
+I'm immortal!
+It's inevitable, %n!
+Am I good or am I just so good?
+Don't take it so seriously, %n!
+2 easy 4 me
+%n is now a CRUMPLED HEAP!
+don't get on my way, %n!
+Outta my way!
+%n is OWNED by ME!
+You're dead and will always be, %n.
+OUNED, %n!
+You lost this time %n, but it doesn't mean you have to like it.
+Outta my way, %n!
+
+[bot_whine]
+damn man
+hehe
+:D
+lol
+What the? Can't you do it better %n?
+Nice one, but you aren't going to do that again %n.
+%n, U DAMN CHEATER!!!
+Let's vote %n out!!!
+%n, that was just a some sort of luck.
+%n, what the hell was that?
+i'll pwn u next time mofo
+Is %n cheating??
+this is boring...
+where the hell...?
+plz get an admin here
+%n stop cheating plz
+Hey! %n, I hate u!
+where was he???
+Nice kill, %n!
+lol, i didn't even see him
+!STOP CHEATING %n!!! 
+!%n, I'm recording a demo, so LEAVE!
+Lolled
+YE WALK THE PLANK %n!!!
+I'm tired...
+Damn sun.. can't see anything...
+REVENGE IS MINE!
+That can't be possible!
+I died?
+Oh.. I'm dead already?
+thx %n
+how long have u played this mod %n?
+ok ok.. you're good %n
+I HATE YOU!!!
+can I have your cheat %n?
+what bot are you using %n?
+is it really so fun to ruin my game, %n? :(
+you play like a bot, %n :O
+%n is on a GODLIKE!
+Next time you're the one who dies, %n!
+%n, I'll kill you...
+what.. who.. where?
+dude, wtf O_o
+well, guess I can't always win...
+
+[bot_rush]
+As you wish.
+Affirmative.
+I don't fear death!
+For honor and glory!
+I'm unstoppable!
+No one can stand on my way!
+
+[bot_follow]
+I'm here.
+Affirmative.
+I'll follow you to the death!
+Ok, where shall we go?
+I'm right behind you!
+I'm your right hand.
+Lead the way.
+
+[bot_defendbase]
+Affirmative.
+I'm an unbreakable defense!
+Your wish is my destiny.
+Mr. Guard Tower at your service!
+There isn't an army that can pass me.
+Allright, I'm watching.
+I'll make this a fortress.

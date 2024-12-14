@@ -1,0 +1,74 @@
+GrogBot ChangeLog
+_________________
+
+Version 1.1
+-----------
+
+Additions:
+- Booty tag gamemode support.
+- Aiming smoothed up a little.
+- More advanced use of ranged weapons.
+- A MetaMod plugin version is available. (grogbot_mm.dll).
+- Rush, Defend and Follow commands + a menu for them (grogbot_commandmenu).
+- 50 new names and some new chat sentences by AzShadow.
+- Tweaked waypoints for pvk_castle, pvk_temple and pvk_shores.
+- Added waypoints for pvk_graceland and pvk_snowfield.
+- Flail and shield tweaks.
+- Bots may now drop their chest and start fighting the enemy depending on the situation.
+- "Not With Chest" waypoint flag added. (Can only be used for goal wpts)
+- bot_forceteamplay console command. If it's set to 1, the bots will try to stick together.
+
+Bugfixes:
+- Fixed the bug causing the bots sometimes to get stuck when using ladders in combat.
+
+Version 1.0
+-----------
+
+Additions:
+- "Advanced" Breakable Waypoints. Bots will only destroy the breakables if they are blocking the way.
+- "Use Only If Visible" waypoints.
+- Rush waypoints.
+- Added waypoints for pvk_colossus, pvk_oceancalm, pvk_marctastic, pvk_island2 and pvk_tourney.
+- Bots will not join full teams anymore (limited with mp_pirates, mp_vikings or mp_knights cvar).
+- Tweaked waypoints for pvk_freeze, pvk_island and pvk_shores.
+- Skill tweaks.
+- Waypoint wait times. Usage: waypoint wait [minimum time] [maximum time]
+- Button waypoints.
+- 75 new names by AzShadow, of course.
+- More chat texts by AzShadow.
+- Heavy knights are using the shield and the flail too.
+
+Bugfixes:
+- It wasn't possible to change the max_skill value.
+- It wasn't possible to change the min_skill and max_skill values in the grogbot.cfg file.
+- Sometimes bots didn't destroy func_breakables and func_pillageables.
+- Cancel didn't work on all menus.
+- There was a typo in the bot skill selection menu.
+
+Version 0.9
+-----------
+
+Additions:
+- GrogBot works with MetaMod now. You need to edit dllpath.txt to point to metamod.dll.
+- Bots will now use waypoints in combat. Some smaller changes in combat too.
+- Support for Pillage gametype.
+- Bots are able to destroy func_pillageables and func_breakables.
+- Added waypoints for pvk_hellawaits, pvk_lighthouse and helms_deep.
+- 1-100 skill system. Doesn't affect very much yet. Maybe in next version...
+- Added the Melee Mode (melee_mode on/off). Bots will only use melee weapons if it's on.
+- Waypoint radius system.
+- You can use spaces in bot_names.txt now.
+- 200 new bot names by AzShadow ;)
+- Included path files this time. They are pretty big, but calculating them in beginning of 
+  the map takes a lot of time too.
+- Bot's camping pitch is adjustable now.
+- Bots can jump over obstacles in combat too.
+- Improved old waypoints in few maps.
+- Better long range weapon usage.
+- Bots will look behind if you hit them and they can't see you.
+
+Bugfixes:
+- Fixed bug causing bots to exploit the spearman charge bug.
+- Bots can see through water now.
+- Bots are now using whine and taunt messages.
+- Fixed bug causing bots to continue strafing after killing an enemy.
